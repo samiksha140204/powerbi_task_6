@@ -1,0 +1,3901 @@
+Customer ID,Previous Purchases,Payment Method,Frequency of Purchases
+1,14,Venmo,Fortnightly
+2,2,Cash,Fortnightly
+3,23,Credit Card,Weekly
+4,49,PayPal,Weekly
+5,31,PayPal,Annually
+6,14,Venmo,Weekly
+7,49,Cash,Quarterly
+8,19,Credit Card,Weekly
+9,8,Venmo,Annually
+10,4,Cash,Quarterly
+11,26,Bank Transfer,Bi-Weekly
+12,10,Bank Transfer,Fortnightly
+13,37,Venmo,Fortnightly
+14,31,PayPal,Weekly
+15,34,Debit Card,Weekly
+16,8,PayPal,Monthly
+17,44,Debit Card,Bi-Weekly
+18,36,Venmo,Quarterly
+19,17,Cash,Weekly
+20,46,Debit Card,Bi-Weekly
+21,50,Cash,Every 3 Months
+22,22,Debit Card,Quarterly
+23,32,Debit Card,Annually
+24,40,Credit Card,Weekly
+25,16,Debit Card,Weekly
+26,14,PayPal,Annually
+27,13,Credit Card,Annually
+28,7,Bank Transfer,Every 3 Months
+29,41,PayPal,Every 3 Months
+30,14,Credit Card,Weekly
+31,16,Credit Card,Monthly
+32,45,Venmo,Monthly
+33,37,Venmo,Annually
+34,45,Cash,Quarterly
+35,38,PayPal,Quarterly
+36,48,Credit Card,Bi-Weekly
+37,44,PayPal,Fortnightly
+38,10,PayPal,Weekly
+39,44,Venmo,Every 3 Months
+40,18,Credit Card,Monthly
+41,31,Debit Card,Quarterly
+42,40,Venmo,Annually
+43,15,PayPal,Annually
+44,19,PayPal,Fortnightly
+45,45,PayPal,Weekly
+46,25,PayPal,Annually
+47,45,Cash,Quarterly
+48,36,Cash,Weekly
+49,38,Cash,Monthly
+50,34,Debit Card,Bi-Weekly
+51,39,Debit Card,Bi-Weekly
+52,7,Credit Card,Quarterly
+53,26,Credit Card,Weekly
+54,35,Credit Card,Weekly
+55,35,Debit Card,Bi-Weekly
+56,49,Credit Card,Annually
+57,46,Credit Card,Weekly
+58,17,Debit Card,Fortnightly
+59,29,Venmo,Monthly
+60,4,Debit Card,Weekly
+61,17,Cash,Weekly
+62,21,Credit Card,Every 3 Months
+63,31,Credit Card,Fortnightly
+64,43,Credit Card,Weekly
+65,18,Debit Card,Fortnightly
+66,44,Venmo,Every 3 Months
+67,3,Venmo,Every 3 Months
+68,49,Debit Card,Monthly
+69,21,Cash,Every 3 Months
+70,5,Cash,Weekly
+71,32,Debit Card,Every 3 Months
+72,34,Bank Transfer,Annually
+73,21,Bank Transfer,Every 3 Months
+74,43,Bank Transfer,Bi-Weekly
+75,3,Cash,Monthly
+76,21,Credit Card,Annually
+77,32,Venmo,Monthly
+78,36,Debit Card,Fortnightly
+79,50,Venmo,Fortnightly
+80,43,Bank Transfer,Every 3 Months
+81,24,Credit Card,Every 3 Months
+82,36,Credit Card,Every 3 Months
+83,21,Credit Card,Every 3 Months
+84,34,Bank Transfer,Weekly
+85,42,Bank Transfer,Every 3 Months
+86,2,Debit Card,Bi-Weekly
+87,47,Cash,Bi-Weekly
+88,44,Debit Card,Fortnightly
+89,35,Credit Card,Monthly
+90,15,Cash,Quarterly
+91,29,Credit Card,Monthly
+92,18,Credit Card,Every 3 Months
+93,13,Venmo,Every 3 Months
+94,46,Credit Card,Weekly
+95,28,Credit Card,Weekly
+96,48,PayPal,Monthly
+97,43,Venmo,Every 3 Months
+98,37,Cash,Annually
+99,20,Bank Transfer,Annually
+100,33,Debit Card,Quarterly
+101,31,Cash,Fortnightly
+102,50,Credit Card,Bi-Weekly
+103,35,Credit Card,Quarterly
+104,22,Venmo,Bi-Weekly
+105,1,PayPal,Monthly
+106,4,Bank Transfer,Annually
+107,31,Credit Card,Monthly
+108,46,PayPal,Fortnightly
+109,32,Bank Transfer,Bi-Weekly
+110,43,Bank Transfer,Fortnightly
+111,26,Venmo,Fortnightly
+112,9,Credit Card,Annually
+113,28,PayPal,Bi-Weekly
+114,20,PayPal,Quarterly
+115,9,Cash,Weekly
+116,48,Debit Card,Every 3 Months
+117,12,Venmo,Annually
+118,29,Cash,Fortnightly
+119,27,Cash,Bi-Weekly
+120,44,Cash,Annually
+121,32,Bank Transfer,Annually
+122,11,Cash,Fortnightly
+123,44,Cash,Fortnightly
+124,46,Cash,Weekly
+125,50,PayPal,Annually
+126,45,Venmo,Every 3 Months
+127,48,Cash,Every 3 Months
+128,26,Credit Card,Weekly
+129,21,Credit Card,Fortnightly
+130,49,PayPal,Bi-Weekly
+131,13,PayPal,Fortnightly
+132,46,Credit Card,Weekly
+133,42,PayPal,Weekly
+134,25,Venmo,Annually
+135,25,Cash,Monthly
+136,12,PayPal,Quarterly
+137,4,Debit Card,Quarterly
+138,38,PayPal,Weekly
+139,42,Bank Transfer,Weekly
+140,30,Venmo,Annually
+141,50,Credit Card,Weekly
+142,45,PayPal,Weekly
+143,33,Credit Card,Fortnightly
+144,25,PayPal,Quarterly
+145,25,Cash,Monthly
+146,44,Debit Card,Quarterly
+147,21,Venmo,Fortnightly
+148,31,Bank Transfer,Fortnightly
+149,47,Debit Card,Annually
+150,14,PayPal,Monthly
+151,17,Debit Card,Every 3 Months
+152,3,Venmo,Annually
+153,42,Venmo,Annually
+154,22,Debit Card,Annually
+155,21,Venmo,Quarterly
+156,21,Bank Transfer,Quarterly
+157,40,Debit Card,Annually
+158,1,Bank Transfer,Fortnightly
+159,50,Bank Transfer,Monthly
+160,39,Bank Transfer,Every 3 Months
+161,34,Venmo,Monthly
+162,29,Venmo,Fortnightly
+163,31,PayPal,Bi-Weekly
+164,8,Debit Card,Weekly
+165,5,Credit Card,Fortnightly
+166,7,Cash,Monthly
+167,30,Cash,Monthly
+168,14,Credit Card,Every 3 Months
+169,5,Cash,Fortnightly
+170,3,PayPal,Every 3 Months
+171,46,Venmo,Bi-Weekly
+172,4,Credit Card,Weekly
+173,42,Credit Card,Bi-Weekly
+174,30,Cash,Annually
+175,37,Venmo,Annually
+176,2,Bank Transfer,Annually
+177,30,Credit Card,Quarterly
+178,47,Bank Transfer,Monthly
+179,21,PayPal,Quarterly
+180,9,Bank Transfer,Fortnightly
+181,12,Debit Card,Fortnightly
+182,4,Bank Transfer,Weekly
+183,10,Debit Card,Annually
+184,26,Credit Card,Weekly
+185,40,Cash,Fortnightly
+186,34,Bank Transfer,Fortnightly
+187,31,Debit Card,Annually
+188,1,Bank Transfer,Bi-Weekly
+189,5,Bank Transfer,Bi-Weekly
+190,4,Credit Card,Weekly
+191,48,Venmo,Quarterly
+192,29,Cash,Every 3 Months
+193,12,PayPal,Bi-Weekly
+194,29,Venmo,Annually
+195,15,Debit Card,Quarterly
+196,34,Credit Card,Monthly
+197,41,Credit Card,Fortnightly
+198,41,Credit Card,Monthly
+199,39,Credit Card,Fortnightly
+200,32,Cash,Weekly
+201,29,Venmo,Monthly
+202,15,Bank Transfer,Annually
+203,33,Venmo,Annually
+204,18,Bank Transfer,Weekly
+205,35,Cash,Bi-Weekly
+206,25,PayPal,Weekly
+207,6,Venmo,Fortnightly
+208,17,Bank Transfer,Bi-Weekly
+209,17,Credit Card,Monthly
+210,44,Cash,Every 3 Months
+211,6,PayPal,Fortnightly
+212,45,Debit Card,Fortnightly
+213,7,Debit Card,Annually
+214,11,Debit Card,Every 3 Months
+215,41,Cash,Every 3 Months
+216,24,PayPal,Bi-Weekly
+217,21,Venmo,Weekly
+218,24,Bank Transfer,Annually
+219,8,Credit Card,Quarterly
+220,12,Cash,Fortnightly
+221,48,Debit Card,Fortnightly
+222,6,Bank Transfer,Quarterly
+223,14,PayPal,Fortnightly
+224,34,PayPal,Annually
+225,12,Cash,Every 3 Months
+226,11,Bank Transfer,Annually
+227,5,PayPal,Monthly
+228,25,Venmo,Fortnightly
+229,11,Credit Card,Annually
+230,27,PayPal,Every 3 Months
+231,43,Credit Card,Annually
+232,18,Debit Card,Every 3 Months
+233,32,Bank Transfer,Bi-Weekly
+234,27,Bank Transfer,Every 3 Months
+235,24,Credit Card,Weekly
+236,31,Debit Card,Quarterly
+237,39,PayPal,Fortnightly
+238,36,Debit Card,Fortnightly
+239,5,Cash,Annually
+240,47,Credit Card,Bi-Weekly
+241,29,Bank Transfer,Fortnightly
+242,43,Venmo,Bi-Weekly
+243,40,Debit Card,Every 3 Months
+244,4,Debit Card,Monthly
+245,39,PayPal,Weekly
+246,45,Venmo,Fortnightly
+247,20,Venmo,Bi-Weekly
+248,14,Debit Card,Weekly
+249,33,PayPal,Weekly
+250,18,Credit Card,Annually
+251,9,Bank Transfer,Weekly
+252,34,PayPal,Annually
+253,33,Venmo,Fortnightly
+254,15,Bank Transfer,Bi-Weekly
+255,4,PayPal,Bi-Weekly
+256,25,Debit Card,Annually
+257,20,Credit Card,Every 3 Months
+258,5,Credit Card,Quarterly
+259,16,Cash,Quarterly
+260,13,Debit Card,Annually
+261,11,Credit Card,Every 3 Months
+262,21,Credit Card,Annually
+263,6,Debit Card,Annually
+264,29,Venmo,Monthly
+265,15,Cash,Annually
+266,17,Bank Transfer,Bi-Weekly
+267,32,Credit Card,Weekly
+268,42,Venmo,Annually
+269,21,Cash,Monthly
+270,9,Cash,Bi-Weekly
+271,16,Bank Transfer,Annually
+272,42,Credit Card,Fortnightly
+273,37,Debit Card,Bi-Weekly
+274,32,Debit Card,Quarterly
+275,28,Cash,Bi-Weekly
+276,13,Credit Card,Weekly
+277,11,Bank Transfer,Fortnightly
+278,36,Bank Transfer,Bi-Weekly
+279,23,Debit Card,Annually
+280,37,Bank Transfer,Monthly
+281,21,Cash,Bi-Weekly
+282,22,Debit Card,Bi-Weekly
+283,9,Cash,Monthly
+284,16,Venmo,Annually
+285,4,PayPal,Quarterly
+286,3,Debit Card,Bi-Weekly
+287,6,Debit Card,Annually
+288,18,Venmo,Fortnightly
+289,34,Venmo,Bi-Weekly
+290,26,Credit Card,Monthly
+291,50,PayPal,Weekly
+292,40,Bank Transfer,Monthly
+293,24,Cash,Quarterly
+294,33,PayPal,Annually
+295,19,Credit Card,Every 3 Months
+296,24,Credit Card,Quarterly
+297,19,Credit Card,Weekly
+298,4,Credit Card,Bi-Weekly
+299,11,Venmo,Every 3 Months
+300,28,PayPal,Fortnightly
+301,24,PayPal,Weekly
+302,25,Credit Card,Every 3 Months
+303,27,Bank Transfer,Every 3 Months
+304,49,Venmo,Weekly
+305,45,Credit Card,Bi-Weekly
+306,26,PayPal,Annually
+307,4,Cash,Annually
+308,3,Credit Card,Every 3 Months
+309,45,Venmo,Bi-Weekly
+310,21,Cash,Fortnightly
+311,50,Cash,Fortnightly
+312,19,Bank Transfer,Monthly
+313,6,PayPal,Annually
+314,50,Credit Card,Every 3 Months
+315,17,Debit Card,Every 3 Months
+316,24,Debit Card,Annually
+317,46,Venmo,Monthly
+318,42,Cash,Every 3 Months
+319,10,Cash,Annually
+320,1,Cash,Every 3 Months
+321,28,Debit Card,Quarterly
+322,48,Debit Card,Quarterly
+323,47,Credit Card,Monthly
+324,29,PayPal,Bi-Weekly
+325,37,Venmo,Quarterly
+326,38,Debit Card,Annually
+327,48,Bank Transfer,Weekly
+328,36,PayPal,Weekly
+329,9,Credit Card,Weekly
+330,34,Bank Transfer,Monthly
+331,43,Venmo,Bi-Weekly
+332,46,PayPal,Quarterly
+333,5,Credit Card,Monthly
+334,15,Bank Transfer,Bi-Weekly
+335,30,Credit Card,Annually
+336,44,Venmo,Every 3 Months
+337,16,PayPal,Annually
+338,16,Bank Transfer,Annually
+339,16,Cash,Weekly
+340,21,Credit Card,Every 3 Months
+341,39,Venmo,Every 3 Months
+342,40,Debit Card,Bi-Weekly
+343,48,Credit Card,Every 3 Months
+344,26,Venmo,Monthly
+345,46,Debit Card,Monthly
+346,27,Bank Transfer,Annually
+347,5,Cash,Weekly
+348,43,PayPal,Fortnightly
+349,17,PayPal,Fortnightly
+350,3,Bank Transfer,Bi-Weekly
+351,47,Bank Transfer,Fortnightly
+352,24,Debit Card,Bi-Weekly
+353,12,Cash,Every 3 Months
+354,35,Debit Card,Monthly
+355,42,Venmo,Weekly
+356,1,PayPal,Every 3 Months
+357,27,Cash,Weekly
+358,16,Credit Card,Bi-Weekly
+359,36,Credit Card,Every 3 Months
+360,30,Credit Card,Every 3 Months
+361,18,Debit Card,Fortnightly
+362,45,Cash,Annually
+363,1,Venmo,Fortnightly
+364,42,Bank Transfer,Fortnightly
+365,7,Venmo,Every 3 Months
+366,50,PayPal,Quarterly
+367,37,Venmo,Fortnightly
+368,18,Bank Transfer,Monthly
+369,29,Cash,Monthly
+370,45,PayPal,Quarterly
+371,13,PayPal,Weekly
+372,47,PayPal,Monthly
+373,7,Debit Card,Weekly
+374,11,Venmo,Bi-Weekly
+375,39,Bank Transfer,Monthly
+376,6,Debit Card,Quarterly
+377,2,Venmo,Bi-Weekly
+378,39,Credit Card,Every 3 Months
+379,23,Credit Card,Monthly
+380,46,Debit Card,Bi-Weekly
+381,19,Bank Transfer,Weekly
+382,3,Credit Card,Every 3 Months
+383,47,PayPal,Quarterly
+384,6,PayPal,Quarterly
+385,6,Venmo,Annually
+386,12,Credit Card,Bi-Weekly
+387,40,PayPal,Quarterly
+388,38,PayPal,Fortnightly
+389,10,PayPal,Quarterly
+390,28,Bank Transfer,Monthly
+391,19,PayPal,Annually
+392,25,Cash,Fortnightly
+393,38,Credit Card,Annually
+394,6,PayPal,Fortnightly
+395,7,Debit Card,Bi-Weekly
+396,2,PayPal,Annually
+397,24,Bank Transfer,Annually
+398,26,Cash,Annually
+399,25,Debit Card,Every 3 Months
+400,10,Debit Card,Monthly
+401,14,PayPal,Fortnightly
+402,21,Cash,Quarterly
+403,26,PayPal,Monthly
+404,12,Bank Transfer,Annually
+405,11,Credit Card,Monthly
+406,15,Cash,Annually
+407,13,Cash,Monthly
+408,5,Credit Card,Bi-Weekly
+409,36,Cash,Fortnightly
+410,32,Bank Transfer,Monthly
+411,1,Credit Card,Quarterly
+412,15,PayPal,Annually
+413,3,Bank Transfer,Weekly
+414,48,Cash,Monthly
+415,30,Debit Card,Weekly
+416,40,Bank Transfer,Monthly
+417,24,Bank Transfer,Fortnightly
+418,48,Debit Card,Quarterly
+419,27,Venmo,Bi-Weekly
+420,14,Credit Card,Every 3 Months
+421,18,Debit Card,Bi-Weekly
+422,48,Cash,Bi-Weekly
+423,32,Debit Card,Annually
+424,21,Credit Card,Bi-Weekly
+425,42,PayPal,Fortnightly
+426,4,Credit Card,Quarterly
+427,19,Credit Card,Quarterly
+428,6,Credit Card,Quarterly
+429,2,Debit Card,Fortnightly
+430,21,Cash,Fortnightly
+431,40,Debit Card,Annually
+432,33,Cash,Fortnightly
+433,26,Venmo,Weekly
+434,23,Credit Card,Fortnightly
+435,39,PayPal,Every 3 Months
+436,42,Bank Transfer,Monthly
+437,41,Bank Transfer,Weekly
+438,41,PayPal,Annually
+439,12,Credit Card,Fortnightly
+440,31,Cash,Monthly
+441,34,Debit Card,Fortnightly
+442,32,Credit Card,Annually
+443,31,Credit Card,Quarterly
+444,24,PayPal,Annually
+445,31,Debit Card,Annually
+446,18,Venmo,Annually
+447,15,Venmo,Monthly
+448,7,Bank Transfer,Every 3 Months
+449,35,Bank Transfer,Fortnightly
+450,35,Bank Transfer,Monthly
+451,19,Credit Card,Monthly
+452,26,Credit Card,Fortnightly
+453,39,PayPal,Fortnightly
+454,22,Credit Card,Weekly
+455,14,Cash,Bi-Weekly
+456,50,Debit Card,Fortnightly
+457,33,Credit Card,Quarterly
+458,48,Debit Card,Every 3 Months
+459,48,PayPal,Monthly
+460,27,PayPal,Fortnightly
+461,27,Bank Transfer,Weekly
+462,20,Venmo,Weekly
+463,48,Venmo,Every 3 Months
+464,29,Venmo,Weekly
+465,45,PayPal,Monthly
+466,25,Cash,Quarterly
+467,25,PayPal,Weekly
+468,37,Debit Card,Every 3 Months
+469,16,Cash,Quarterly
+470,30,Debit Card,Bi-Weekly
+471,6,Cash,Every 3 Months
+472,36,Bank Transfer,Quarterly
+473,3,Bank Transfer,Quarterly
+474,29,PayPal,Every 3 Months
+475,15,Cash,Quarterly
+476,18,Debit Card,Annually
+477,2,Debit Card,Fortnightly
+478,49,Debit Card,Weekly
+479,48,Venmo,Annually
+480,43,Venmo,Monthly
+481,30,Debit Card,Bi-Weekly
+482,10,PayPal,Fortnightly
+483,11,Venmo,Annually
+484,12,Debit Card,Weekly
+485,28,Bank Transfer,Quarterly
+486,36,Debit Card,Fortnightly
+487,37,Venmo,Every 3 Months
+488,22,Credit Card,Quarterly
+489,32,Venmo,Weekly
+490,40,PayPal,Annually
+491,47,Cash,Monthly
+492,24,Credit Card,Bi-Weekly
+493,11,Debit Card,Weekly
+494,19,Cash,Bi-Weekly
+495,42,Debit Card,Weekly
+496,6,Debit Card,Fortnightly
+497,31,Venmo,Fortnightly
+498,31,Cash,Weekly
+499,27,Bank Transfer,Monthly
+500,24,PayPal,Monthly
+501,35,Venmo,Every 3 Months
+502,21,Venmo,Annually
+503,8,PayPal,Fortnightly
+504,26,Bank Transfer,Quarterly
+505,26,PayPal,Annually
+506,9,Cash,Bi-Weekly
+507,48,Debit Card,Annually
+508,33,Debit Card,Fortnightly
+509,31,PayPal,Quarterly
+510,17,Debit Card,Weekly
+511,22,Venmo,Annually
+512,8,PayPal,Annually
+513,2,Bank Transfer,Monthly
+514,45,Venmo,Annually
+515,47,PayPal,Quarterly
+516,7,Cash,Monthly
+517,19,Debit Card,Bi-Weekly
+518,44,Cash,Every 3 Months
+519,16,Venmo,Every 3 Months
+520,17,Bank Transfer,Quarterly
+521,20,Debit Card,Quarterly
+522,50,Bank Transfer,Annually
+523,37,Cash,Quarterly
+524,5,PayPal,Quarterly
+525,44,PayPal,Annually
+526,41,Debit Card,Monthly
+527,19,Cash,Monthly
+528,47,Bank Transfer,Every 3 Months
+529,40,Cash,Annually
+530,6,Credit Card,Monthly
+531,25,Credit Card,Bi-Weekly
+532,42,Cash,Weekly
+533,35,Bank Transfer,Every 3 Months
+534,17,Debit Card,Weekly
+535,4,PayPal,Quarterly
+536,24,Bank Transfer,Weekly
+537,16,Debit Card,Every 3 Months
+538,14,Debit Card,Annually
+539,43,Cash,Weekly
+540,49,Debit Card,Weekly
+541,33,Cash,Every 3 Months
+542,45,Cash,Bi-Weekly
+543,35,Cash,Bi-Weekly
+544,11,Credit Card,Monthly
+545,30,Bank Transfer,Every 3 Months
+546,48,Debit Card,Annually
+547,45,Venmo,Bi-Weekly
+548,26,Venmo,Weekly
+549,41,Debit Card,Every 3 Months
+550,37,Venmo,Bi-Weekly
+551,12,PayPal,Weekly
+552,27,Cash,Bi-Weekly
+553,18,Bank Transfer,Weekly
+554,15,Credit Card,Quarterly
+555,34,Bank Transfer,Weekly
+556,37,Venmo,Annually
+557,21,Cash,Fortnightly
+558,31,Debit Card,Weekly
+559,43,Debit Card,Every 3 Months
+560,22,Bank Transfer,Monthly
+561,12,Debit Card,Annually
+562,25,PayPal,Fortnightly
+563,40,Debit Card,Annually
+564,16,Debit Card,Quarterly
+565,30,Bank Transfer,Weekly
+566,10,Venmo,Weekly
+567,1,Debit Card,Fortnightly
+568,24,Venmo,Fortnightly
+569,36,PayPal,Monthly
+570,46,Credit Card,Every 3 Months
+571,20,Cash,Annually
+572,37,Venmo,Weekly
+573,26,Bank Transfer,Annually
+574,23,Credit Card,Bi-Weekly
+575,20,Bank Transfer,Bi-Weekly
+576,38,PayPal,Monthly
+577,5,Credit Card,Every 3 Months
+578,41,Venmo,Annually
+579,22,Credit Card,Fortnightly
+580,48,Credit Card,Annually
+581,10,PayPal,Weekly
+582,12,Bank Transfer,Every 3 Months
+583,2,Bank Transfer,Quarterly
+584,38,PayPal,Monthly
+585,20,Debit Card,Monthly
+586,5,Cash,Every 3 Months
+587,9,Venmo,Annually
+588,48,Debit Card,Every 3 Months
+589,9,Debit Card,Quarterly
+590,40,PayPal,Annually
+591,30,Venmo,Fortnightly
+592,6,Debit Card,Bi-Weekly
+593,42,Venmo,Every 3 Months
+594,9,PayPal,Every 3 Months
+595,6,Debit Card,Monthly
+596,47,PayPal,Quarterly
+597,36,Venmo,Annually
+598,19,Bank Transfer,Fortnightly
+599,30,Cash,Every 3 Months
+600,27,Debit Card,Every 3 Months
+601,25,Venmo,Monthly
+602,5,Cash,Fortnightly
+603,10,Cash,Every 3 Months
+604,26,PayPal,Every 3 Months
+605,11,Credit Card,Every 3 Months
+606,17,Bank Transfer,Weekly
+607,44,PayPal,Monthly
+608,44,Cash,Monthly
+609,21,Venmo,Every 3 Months
+610,49,Credit Card,Fortnightly
+611,27,Bank Transfer,Every 3 Months
+612,19,Cash,Monthly
+613,33,Credit Card,Quarterly
+614,46,Cash,Bi-Weekly
+615,21,Credit Card,Bi-Weekly
+616,23,Venmo,Annually
+617,38,Credit Card,Every 3 Months
+618,2,Bank Transfer,Quarterly
+619,21,Debit Card,Bi-Weekly
+620,1,Debit Card,Every 3 Months
+621,10,Venmo,Every 3 Months
+622,45,Credit Card,Weekly
+623,44,Bank Transfer,Fortnightly
+624,48,PayPal,Bi-Weekly
+625,21,PayPal,Annually
+626,1,Venmo,Weekly
+627,10,Venmo,Annually
+628,24,PayPal,Monthly
+629,29,Credit Card,Monthly
+630,11,Debit Card,Annually
+631,33,Debit Card,Annually
+632,27,Cash,Fortnightly
+633,19,Venmo,Fortnightly
+634,50,Debit Card,Quarterly
+635,46,PayPal,Weekly
+636,28,Cash,Quarterly
+637,14,Bank Transfer,Every 3 Months
+638,46,Cash,Fortnightly
+639,41,PayPal,Monthly
+640,50,Credit Card,Annually
+641,28,Debit Card,Fortnightly
+642,23,Credit Card,Every 3 Months
+643,14,Debit Card,Bi-Weekly
+644,10,Bank Transfer,Every 3 Months
+645,37,Cash,Weekly
+646,15,Venmo,Bi-Weekly
+647,19,Venmo,Bi-Weekly
+648,23,Credit Card,Fortnightly
+649,35,Credit Card,Weekly
+650,33,PayPal,Every 3 Months
+651,12,Bank Transfer,Annually
+652,41,Venmo,Fortnightly
+653,27,Venmo,Weekly
+654,45,Cash,Fortnightly
+655,23,Venmo,Annually
+656,19,Venmo,Monthly
+657,6,PayPal,Quarterly
+658,6,PayPal,Quarterly
+659,20,Venmo,Weekly
+660,8,Cash,Weekly
+661,39,Credit Card,Quarterly
+662,39,Credit Card,Quarterly
+663,39,Venmo,Bi-Weekly
+664,23,Credit Card,Monthly
+665,41,PayPal,Bi-Weekly
+666,50,Credit Card,Annually
+667,30,Debit Card,Quarterly
+668,32,Bank Transfer,Quarterly
+669,35,Bank Transfer,Monthly
+670,45,Venmo,Bi-Weekly
+671,37,Cash,Bi-Weekly
+672,45,Cash,Weekly
+673,29,Cash,Quarterly
+674,27,Venmo,Bi-Weekly
+675,36,Bank Transfer,Annually
+676,9,Cash,Annually
+677,38,Venmo,Bi-Weekly
+678,41,PayPal,Annually
+679,25,Debit Card,Every 3 Months
+680,37,Venmo,Fortnightly
+681,3,PayPal,Annually
+682,24,Credit Card,Every 3 Months
+683,49,Credit Card,Bi-Weekly
+684,3,Bank Transfer,Monthly
+685,42,Debit Card,Monthly
+686,32,Cash,Fortnightly
+687,33,Venmo,Fortnightly
+688,46,Bank Transfer,Quarterly
+689,44,Venmo,Monthly
+690,35,Credit Card,Every 3 Months
+691,45,Bank Transfer,Weekly
+692,37,PayPal,Bi-Weekly
+693,40,Debit Card,Every 3 Months
+694,30,Cash,Every 3 Months
+695,38,Venmo,Every 3 Months
+696,15,Debit Card,Every 3 Months
+697,49,Cash,Monthly
+698,40,Debit Card,Quarterly
+699,40,Debit Card,Weekly
+700,5,PayPal,Weekly
+701,5,PayPal,Monthly
+702,5,Debit Card,Every 3 Months
+703,1,Cash,Weekly
+704,21,Venmo,Weekly
+705,18,PayPal,Annually
+706,49,Cash,Quarterly
+707,27,Debit Card,Weekly
+708,21,Venmo,Annually
+709,19,Cash,Fortnightly
+710,23,Debit Card,Monthly
+711,26,PayPal,Fortnightly
+712,13,Bank Transfer,Bi-Weekly
+713,36,Bank Transfer,Quarterly
+714,39,Bank Transfer,Bi-Weekly
+715,40,Debit Card,Fortnightly
+716,37,Debit Card,Quarterly
+717,9,Venmo,Bi-Weekly
+718,7,Venmo,Every 3 Months
+719,25,Bank Transfer,Annually
+720,42,Venmo,Bi-Weekly
+721,19,Debit Card,Weekly
+722,41,Debit Card,Every 3 Months
+723,50,Cash,Bi-Weekly
+724,43,PayPal,Monthly
+725,36,Venmo,Every 3 Months
+726,33,Debit Card,Fortnightly
+727,20,Bank Transfer,Every 3 Months
+728,37,Venmo,Every 3 Months
+729,12,PayPal,Every 3 Months
+730,46,PayPal,Every 3 Months
+731,28,Venmo,Fortnightly
+732,30,PayPal,Fortnightly
+733,28,Cash,Bi-Weekly
+734,20,Debit Card,Bi-Weekly
+735,39,Bank Transfer,Every 3 Months
+736,48,Cash,Bi-Weekly
+737,32,Credit Card,Every 3 Months
+738,28,PayPal,Annually
+739,27,Venmo,Quarterly
+740,26,Venmo,Bi-Weekly
+741,22,Credit Card,Fortnightly
+742,23,Bank Transfer,Every 3 Months
+743,21,Debit Card,Quarterly
+744,36,Cash,Weekly
+745,42,Debit Card,Bi-Weekly
+746,4,Venmo,Monthly
+747,47,Credit Card,Annually
+748,13,Bank Transfer,Weekly
+749,8,Bank Transfer,Quarterly
+750,11,Debit Card,Quarterly
+751,5,Venmo,Annually
+752,1,Credit Card,Monthly
+753,17,PayPal,Every 3 Months
+754,27,Venmo,Quarterly
+755,3,Debit Card,Quarterly
+756,22,PayPal,Weekly
+757,24,Cash,Fortnightly
+758,18,Debit Card,Quarterly
+759,39,Bank Transfer,Every 3 Months
+760,25,Credit Card,Fortnightly
+761,6,Cash,Annually
+762,26,Bank Transfer,Weekly
+763,43,Debit Card,Fortnightly
+764,6,Credit Card,Monthly
+765,6,Debit Card,Quarterly
+766,13,Cash,Quarterly
+767,13,PayPal,Monthly
+768,11,Cash,Annually
+769,45,Venmo,Weekly
+770,8,PayPal,Monthly
+771,8,Credit Card,Annually
+772,34,Bank Transfer,Fortnightly
+773,40,Debit Card,Bi-Weekly
+774,14,Debit Card,Bi-Weekly
+775,11,Credit Card,Quarterly
+776,8,PayPal,Monthly
+777,8,Venmo,Every 3 Months
+778,37,Venmo,Weekly
+779,23,Debit Card,Annually
+780,38,Cash,Annually
+781,38,Cash,Quarterly
+782,12,Credit Card,Fortnightly
+783,15,Cash,Weekly
+784,38,PayPal,Fortnightly
+785,41,Bank Transfer,Every 3 Months
+786,37,PayPal,Fortnightly
+787,16,Bank Transfer,Every 3 Months
+788,25,Venmo,Weekly
+789,18,Bank Transfer,Quarterly
+790,4,Credit Card,Bi-Weekly
+791,12,Bank Transfer,Quarterly
+792,35,PayPal,Fortnightly
+793,45,Venmo,Weekly
+794,16,Credit Card,Monthly
+795,10,Debit Card,Fortnightly
+796,34,Venmo,Annually
+797,43,Credit Card,Annually
+798,38,Debit Card,Weekly
+799,48,PayPal,Every 3 Months
+800,31,PayPal,Annually
+801,20,Cash,Every 3 Months
+802,12,Credit Card,Fortnightly
+803,2,Bank Transfer,Weekly
+804,30,Venmo,Every 3 Months
+805,28,Venmo,Quarterly
+806,40,Debit Card,Monthly
+807,46,PayPal,Quarterly
+808,15,Credit Card,Weekly
+809,38,Cash,Every 3 Months
+810,30,PayPal,Bi-Weekly
+811,32,Debit Card,Bi-Weekly
+812,36,Venmo,Quarterly
+813,32,Credit Card,Weekly
+814,14,Debit Card,Annually
+815,8,PayPal,Monthly
+816,27,Venmo,Bi-Weekly
+817,24,Debit Card,Monthly
+818,30,PayPal,Fortnightly
+819,34,Debit Card,Monthly
+820,28,Debit Card,Quarterly
+821,27,Debit Card,Monthly
+822,31,Credit Card,Bi-Weekly
+823,23,Bank Transfer,Annually
+824,11,Credit Card,Quarterly
+825,48,Cash,Quarterly
+826,17,Cash,Monthly
+827,36,PayPal,Weekly
+828,33,Bank Transfer,Fortnightly
+829,27,PayPal,Bi-Weekly
+830,14,Credit Card,Fortnightly
+831,5,Credit Card,Annually
+832,47,Cash,Every 3 Months
+833,28,Cash,Bi-Weekly
+834,11,Credit Card,Annually
+835,18,Credit Card,Weekly
+836,21,Debit Card,Weekly
+837,22,Cash,Bi-Weekly
+838,33,Cash,Every 3 Months
+839,49,Credit Card,Annually
+840,10,Debit Card,Every 3 Months
+841,18,PayPal,Weekly
+842,28,PayPal,Fortnightly
+843,25,PayPal,Weekly
+844,6,PayPal,Weekly
+845,44,Venmo,Bi-Weekly
+846,30,Venmo,Monthly
+847,42,Debit Card,Quarterly
+848,30,PayPal,Monthly
+849,33,Credit Card,Bi-Weekly
+850,24,PayPal,Quarterly
+851,13,Venmo,Monthly
+852,19,Debit Card,Monthly
+853,23,Debit Card,Every 3 Months
+854,35,Cash,Monthly
+855,22,Venmo,Monthly
+856,14,Credit Card,Quarterly
+857,47,Debit Card,Fortnightly
+858,50,Debit Card,Every 3 Months
+859,33,PayPal,Weekly
+860,7,Debit Card,Monthly
+861,3,Cash,Monthly
+862,35,Credit Card,Every 3 Months
+863,13,PayPal,Fortnightly
+864,42,PayPal,Fortnightly
+865,5,PayPal,Annually
+866,23,Venmo,Annually
+867,11,PayPal,Bi-Weekly
+868,23,Bank Transfer,Fortnightly
+869,2,Credit Card,Every 3 Months
+870,33,PayPal,Weekly
+871,6,Bank Transfer,Bi-Weekly
+872,45,Debit Card,Quarterly
+873,25,Cash,Quarterly
+874,24,Venmo,Quarterly
+875,10,Venmo,Every 3 Months
+876,7,Bank Transfer,Every 3 Months
+877,1,Debit Card,Weekly
+878,45,Venmo,Every 3 Months
+879,37,Debit Card,Weekly
+880,14,PayPal,Quarterly
+881,25,Debit Card,Monthly
+882,18,Venmo,Annually
+883,37,Cash,Every 3 Months
+884,30,Bank Transfer,Monthly
+885,34,Bank Transfer,Weekly
+886,49,Debit Card,Every 3 Months
+887,48,Bank Transfer,Monthly
+888,33,PayPal,Fortnightly
+889,44,Cash,Annually
+890,50,Venmo,Weekly
+891,47,Credit Card,Monthly
+892,24,PayPal,Every 3 Months
+893,43,Debit Card,Monthly
+894,14,Venmo,Monthly
+895,3,Debit Card,Quarterly
+896,33,Debit Card,Quarterly
+897,38,Cash,Fortnightly
+898,46,Venmo,Weekly
+899,19,Bank Transfer,Every 3 Months
+900,20,PayPal,Annually
+901,42,Bank Transfer,Quarterly
+902,34,Cash,Monthly
+903,5,Cash,Monthly
+904,3,PayPal,Quarterly
+905,46,PayPal,Every 3 Months
+906,16,Venmo,Annually
+907,21,Debit Card,Bi-Weekly
+908,34,Credit Card,Bi-Weekly
+909,9,PayPal,Every 3 Months
+910,36,PayPal,Weekly
+911,22,Credit Card,Monthly
+912,2,Bank Transfer,Quarterly
+913,32,Bank Transfer,Monthly
+914,29,Cash,Every 3 Months
+915,27,Venmo,Every 3 Months
+916,33,Credit Card,Fortnightly
+917,16,Venmo,Monthly
+918,11,Bank Transfer,Quarterly
+919,11,Cash,Fortnightly
+920,17,Debit Card,Bi-Weekly
+921,37,Cash,Weekly
+922,18,PayPal,Weekly
+923,13,Credit Card,Monthly
+924,7,PayPal,Weekly
+925,37,Cash,Quarterly
+926,8,Cash,Monthly
+927,11,Cash,Bi-Weekly
+928,8,Venmo,Bi-Weekly
+929,31,Cash,Every 3 Months
+930,26,Debit Card,Fortnightly
+931,20,Credit Card,Bi-Weekly
+932,24,Bank Transfer,Fortnightly
+933,45,Debit Card,Bi-Weekly
+934,33,Debit Card,Monthly
+935,21,Bank Transfer,Monthly
+936,2,Bank Transfer,Fortnightly
+937,28,Cash,Weekly
+938,18,Venmo,Quarterly
+939,21,Debit Card,Fortnightly
+940,24,Credit Card,Monthly
+941,15,PayPal,Every 3 Months
+942,38,PayPal,Every 3 Months
+943,38,PayPal,Bi-Weekly
+944,13,Venmo,Fortnightly
+945,39,Cash,Bi-Weekly
+946,8,Venmo,Every 3 Months
+947,4,PayPal,Quarterly
+948,6,Cash,Every 3 Months
+949,11,Venmo,Every 3 Months
+950,49,Venmo,Monthly
+951,30,PayPal,Quarterly
+952,34,Bank Transfer,Monthly
+953,28,PayPal,Monthly
+954,36,Venmo,Quarterly
+955,18,Credit Card,Every 3 Months
+956,4,PayPal,Monthly
+957,42,Debit Card,Quarterly
+958,11,Cash,Quarterly
+959,31,Credit Card,Bi-Weekly
+960,12,Cash,Fortnightly
+961,20,Venmo,Quarterly
+962,37,Debit Card,Quarterly
+963,26,Debit Card,Fortnightly
+964,14,Credit Card,Weekly
+965,12,Venmo,Bi-Weekly
+966,10,Credit Card,Annually
+967,19,Cash,Annually
+968,4,Cash,Weekly
+969,48,Bank Transfer,Quarterly
+970,37,PayPal,Monthly
+971,4,Cash,Monthly
+972,15,Credit Card,Weekly
+973,33,Credit Card,Weekly
+974,30,Bank Transfer,Quarterly
+975,23,Bank Transfer,Monthly
+976,2,Bank Transfer,Weekly
+977,50,Credit Card,Every 3 Months
+978,34,Cash,Bi-Weekly
+979,33,Credit Card,Weekly
+980,34,Debit Card,Monthly
+981,39,PayPal,Every 3 Months
+982,47,Credit Card,Quarterly
+983,37,PayPal,Monthly
+984,40,Venmo,Bi-Weekly
+985,8,Credit Card,Bi-Weekly
+986,12,Bank Transfer,Annually
+987,36,Bank Transfer,Monthly
+988,48,PayPal,Weekly
+989,47,PayPal,Fortnightly
+990,2,Bank Transfer,Monthly
+991,24,Cash,Weekly
+992,40,Bank Transfer,Bi-Weekly
+993,50,Debit Card,Weekly
+994,25,Cash,Weekly
+995,20,Debit Card,Monthly
+996,10,Venmo,Weekly
+997,32,Bank Transfer,Quarterly
+998,31,Cash,Fortnightly
+999,48,Bank Transfer,Bi-Weekly
+1000,23,Debit Card,Monthly
+1001,1,Bank Transfer,Bi-Weekly
+1002,4,Debit Card,Fortnightly
+1003,3,Bank Transfer,Bi-Weekly
+1004,3,Cash,Bi-Weekly
+1005,44,Cash,Annually
+1006,5,Debit Card,Bi-Weekly
+1007,50,Venmo,Quarterly
+1008,2,Credit Card,Annually
+1009,29,PayPal,Annually
+1010,11,Venmo,Annually
+1011,37,Credit Card,Fortnightly
+1012,32,Debit Card,Fortnightly
+1013,27,Credit Card,Annually
+1014,31,Venmo,Bi-Weekly
+1015,36,Debit Card,Fortnightly
+1016,34,Cash,Weekly
+1017,15,Bank Transfer,Every 3 Months
+1018,14,Credit Card,Annually
+1019,46,Cash,Weekly
+1020,33,Venmo,Bi-Weekly
+1021,41,Debit Card,Annually
+1022,39,PayPal,Weekly
+1023,7,Cash,Annually
+1024,29,Bank Transfer,Every 3 Months
+1025,18,Venmo,Quarterly
+1026,15,Credit Card,Annually
+1027,39,PayPal,Bi-Weekly
+1028,11,Cash,Monthly
+1029,4,Cash,Fortnightly
+1030,33,Venmo,Bi-Weekly
+1031,37,Debit Card,Quarterly
+1032,32,Cash,Quarterly
+1033,44,Credit Card,Quarterly
+1034,41,Bank Transfer,Quarterly
+1035,44,Bank Transfer,Weekly
+1036,32,Venmo,Annually
+1037,13,Bank Transfer,Monthly
+1038,48,Debit Card,Quarterly
+1039,3,Bank Transfer,Weekly
+1040,39,Venmo,Monthly
+1041,7,Cash,Fortnightly
+1042,11,Cash,Fortnightly
+1043,47,Credit Card,Weekly
+1044,28,Debit Card,Fortnightly
+1045,17,Bank Transfer,Every 3 Months
+1046,11,PayPal,Bi-Weekly
+1047,12,Venmo,Annually
+1048,7,Credit Card,Fortnightly
+1049,19,Venmo,Fortnightly
+1050,24,Cash,Quarterly
+1051,19,Venmo,Monthly
+1052,39,PayPal,Annually
+1053,1,Credit Card,Fortnightly
+1054,10,Debit Card,Bi-Weekly
+1055,48,PayPal,Quarterly
+1056,24,Debit Card,Annually
+1057,42,Venmo,Fortnightly
+1058,20,Credit Card,Weekly
+1059,49,Bank Transfer,Every 3 Months
+1060,25,Debit Card,Monthly
+1061,21,Debit Card,Every 3 Months
+1062,12,Venmo,Every 3 Months
+1063,21,Debit Card,Every 3 Months
+1064,35,Cash,Monthly
+1065,42,Credit Card,Every 3 Months
+1066,3,PayPal,Every 3 Months
+1067,11,PayPal,Bi-Weekly
+1068,22,PayPal,Quarterly
+1069,47,Credit Card,Weekly
+1070,33,Venmo,Every 3 Months
+1071,50,Debit Card,Weekly
+1072,46,Credit Card,Monthly
+1073,34,Debit Card,Fortnightly
+1074,33,Credit Card,Monthly
+1075,45,Bank Transfer,Fortnightly
+1076,32,Debit Card,Bi-Weekly
+1077,47,Venmo,Bi-Weekly
+1078,5,PayPal,Quarterly
+1079,49,Credit Card,Fortnightly
+1080,48,Bank Transfer,Monthly
+1081,22,Cash,Every 3 Months
+1082,45,Credit Card,Annually
+1083,30,Venmo,Quarterly
+1084,43,Cash,Weekly
+1085,48,Cash,Quarterly
+1086,23,Venmo,Fortnightly
+1087,27,PayPal,Bi-Weekly
+1088,7,Bank Transfer,Monthly
+1089,2,PayPal,Weekly
+1090,33,PayPal,Bi-Weekly
+1091,27,Cash,Fortnightly
+1092,6,Credit Card,Fortnightly
+1093,20,Venmo,Quarterly
+1094,46,Venmo,Every 3 Months
+1095,25,Cash,Quarterly
+1096,30,Bank Transfer,Quarterly
+1097,48,Credit Card,Annually
+1098,47,Bank Transfer,Weekly
+1099,27,Credit Card,Weekly
+1100,45,Bank Transfer,Fortnightly
+1101,2,Credit Card,Weekly
+1102,39,Cash,Fortnightly
+1103,24,Cash,Fortnightly
+1104,8,Debit Card,Bi-Weekly
+1105,8,Bank Transfer,Quarterly
+1106,6,Venmo,Every 3 Months
+1107,12,Venmo,Fortnightly
+1108,26,Bank Transfer,Weekly
+1109,50,Cash,Fortnightly
+1110,2,Venmo,Weekly
+1111,31,Cash,Bi-Weekly
+1112,4,Credit Card,Bi-Weekly
+1113,32,PayPal,Quarterly
+1114,11,PayPal,Bi-Weekly
+1115,47,Bank Transfer,Every 3 Months
+1116,37,Cash,Weekly
+1117,39,PayPal,Fortnightly
+1118,24,Credit Card,Monthly
+1119,11,PayPal,Every 3 Months
+1120,36,Credit Card,Weekly
+1121,40,Debit Card,Monthly
+1122,25,Cash,Quarterly
+1123,12,Credit Card,Annually
+1124,38,Cash,Monthly
+1125,40,Cash,Quarterly
+1126,10,Bank Transfer,Weekly
+1127,47,Venmo,Fortnightly
+1128,22,Debit Card,Monthly
+1129,35,Debit Card,Monthly
+1130,46,Venmo,Fortnightly
+1131,30,PayPal,Bi-Weekly
+1132,20,Bank Transfer,Monthly
+1133,25,Cash,Fortnightly
+1134,29,Cash,Weekly
+1135,2,Venmo,Every 3 Months
+1136,32,Bank Transfer,Quarterly
+1137,37,Cash,Monthly
+1138,16,Bank Transfer,Every 3 Months
+1139,32,Venmo,Fortnightly
+1140,42,Debit Card,Bi-Weekly
+1141,6,Credit Card,Every 3 Months
+1142,23,PayPal,Fortnightly
+1143,27,Venmo,Bi-Weekly
+1144,43,PayPal,Quarterly
+1145,25,Bank Transfer,Fortnightly
+1146,30,Cash,Every 3 Months
+1147,7,Bank Transfer,Every 3 Months
+1148,17,Debit Card,Annually
+1149,10,PayPal,Fortnightly
+1150,40,Venmo,Annually
+1151,50,Venmo,Bi-Weekly
+1152,24,Credit Card,Weekly
+1153,8,PayPal,Every 3 Months
+1154,6,Bank Transfer,Quarterly
+1155,44,Credit Card,Bi-Weekly
+1156,47,PayPal,Quarterly
+1157,6,Venmo,Every 3 Months
+1158,11,Cash,Quarterly
+1159,41,Bank Transfer,Annually
+1160,46,Venmo,Every 3 Months
+1161,9,Venmo,Bi-Weekly
+1162,37,PayPal,Monthly
+1163,13,PayPal,Weekly
+1164,24,Debit Card,Monthly
+1165,47,PayPal,Quarterly
+1166,21,Venmo,Every 3 Months
+1167,22,Venmo,Fortnightly
+1168,16,PayPal,Quarterly
+1169,37,Debit Card,Fortnightly
+1170,3,Cash,Annually
+1171,33,Cash,Bi-Weekly
+1172,15,Debit Card,Annually
+1173,42,Bank Transfer,Bi-Weekly
+1174,42,Cash,Bi-Weekly
+1175,19,Bank Transfer,Bi-Weekly
+1176,26,PayPal,Quarterly
+1177,39,PayPal,Quarterly
+1178,24,Debit Card,Monthly
+1179,23,Debit Card,Annually
+1180,44,Bank Transfer,Annually
+1181,34,Cash,Monthly
+1182,43,Bank Transfer,Quarterly
+1183,45,PayPal,Quarterly
+1184,4,Credit Card,Weekly
+1185,19,Credit Card,Annually
+1186,29,Credit Card,Monthly
+1187,27,Credit Card,Annually
+1188,37,Credit Card,Every 3 Months
+1189,11,Credit Card,Weekly
+1190,28,Debit Card,Annually
+1191,31,Credit Card,Weekly
+1192,50,Venmo,Quarterly
+1193,42,Venmo,Quarterly
+1194,18,Credit Card,Fortnightly
+1195,6,Credit Card,Fortnightly
+1196,33,Venmo,Monthly
+1197,13,Bank Transfer,Bi-Weekly
+1198,26,PayPal,Annually
+1199,17,Cash,Annually
+1200,3,Debit Card,Weekly
+1201,7,PayPal,Weekly
+1202,46,Venmo,Fortnightly
+1203,14,Venmo,Every 3 Months
+1204,23,Bank Transfer,Annually
+1205,20,Credit Card,Every 3 Months
+1206,38,Bank Transfer,Fortnightly
+1207,16,Venmo,Every 3 Months
+1208,48,Credit Card,Every 3 Months
+1209,8,Debit Card,Annually
+1210,16,Bank Transfer,Monthly
+1211,5,Cash,Quarterly
+1212,14,Venmo,Every 3 Months
+1213,18,Credit Card,Weekly
+1214,14,Debit Card,Every 3 Months
+1215,5,Cash,Every 3 Months
+1216,15,Credit Card,Every 3 Months
+1217,3,Venmo,Every 3 Months
+1218,12,Cash,Every 3 Months
+1219,43,Cash,Every 3 Months
+1220,35,Credit Card,Bi-Weekly
+1221,36,Bank Transfer,Quarterly
+1222,3,Cash,Quarterly
+1223,27,Bank Transfer,Annually
+1224,21,Bank Transfer,Weekly
+1225,18,Venmo,Weekly
+1226,16,Debit Card,Weekly
+1227,18,Venmo,Bi-Weekly
+1228,19,Bank Transfer,Bi-Weekly
+1229,1,Cash,Annually
+1230,39,Bank Transfer,Annually
+1231,49,Venmo,Monthly
+1232,43,Credit Card,Fortnightly
+1233,31,Debit Card,Every 3 Months
+1234,40,Venmo,Every 3 Months
+1235,2,Bank Transfer,Bi-Weekly
+1236,46,PayPal,Every 3 Months
+1237,35,Debit Card,Every 3 Months
+1238,42,Credit Card,Quarterly
+1239,3,Venmo,Fortnightly
+1240,32,Debit Card,Every 3 Months
+1241,48,Debit Card,Annually
+1242,34,Credit Card,Weekly
+1243,15,Bank Transfer,Quarterly
+1244,22,Debit Card,Annually
+1245,2,Cash,Monthly
+1246,30,Bank Transfer,Weekly
+1247,27,Cash,Monthly
+1248,18,Venmo,Bi-Weekly
+1249,8,Credit Card,Annually
+1250,48,Venmo,Fortnightly
+1251,24,Cash,Monthly
+1252,43,Credit Card,Monthly
+1253,8,Cash,Quarterly
+1254,49,PayPal,Annually
+1255,2,Credit Card,Bi-Weekly
+1256,38,Cash,Fortnightly
+1257,4,Cash,Fortnightly
+1258,31,Cash,Every 3 Months
+1259,34,Debit Card,Every 3 Months
+1260,45,Credit Card,Monthly
+1261,30,Debit Card,Quarterly
+1262,2,Credit Card,Fortnightly
+1263,44,Venmo,Monthly
+1264,1,Credit Card,Bi-Weekly
+1265,1,Venmo,Bi-Weekly
+1266,27,Bank Transfer,Weekly
+1267,14,Debit Card,Every 3 Months
+1268,41,Cash,Weekly
+1269,25,Debit Card,Bi-Weekly
+1270,47,PayPal,Quarterly
+1271,20,Cash,Annually
+1272,42,PayPal,Annually
+1273,16,Bank Transfer,Monthly
+1274,32,Credit Card,Every 3 Months
+1275,37,PayPal,Quarterly
+1276,1,PayPal,Monthly
+1277,37,Bank Transfer,Weekly
+1278,5,Venmo,Quarterly
+1279,31,Venmo,Fortnightly
+1280,18,Debit Card,Annually
+1281,39,Venmo,Every 3 Months
+1282,8,Venmo,Bi-Weekly
+1283,20,Venmo,Monthly
+1284,23,Debit Card,Every 3 Months
+1285,38,PayPal,Fortnightly
+1286,45,Bank Transfer,Fortnightly
+1287,44,Debit Card,Fortnightly
+1288,20,PayPal,Monthly
+1289,34,PayPal,Bi-Weekly
+1290,10,PayPal,Weekly
+1291,3,PayPal,Annually
+1292,23,Debit Card,Fortnightly
+1293,42,Bank Transfer,Annually
+1294,30,Debit Card,Annually
+1295,21,Cash,Every 3 Months
+1296,50,PayPal,Weekly
+1297,16,Cash,Bi-Weekly
+1298,32,Venmo,Annually
+1299,14,Bank Transfer,Fortnightly
+1300,42,Venmo,Bi-Weekly
+1301,47,Credit Card,Every 3 Months
+1302,21,Debit Card,Weekly
+1303,37,Credit Card,Monthly
+1304,10,Credit Card,Annually
+1305,18,PayPal,Every 3 Months
+1306,2,PayPal,Every 3 Months
+1307,40,PayPal,Annually
+1308,43,PayPal,Annually
+1309,14,Credit Card,Every 3 Months
+1310,41,Cash,Quarterly
+1311,38,Credit Card,Every 3 Months
+1312,12,Venmo,Annually
+1313,19,Bank Transfer,Monthly
+1314,23,Credit Card,Bi-Weekly
+1315,49,Debit Card,Annually
+1316,29,Debit Card,Quarterly
+1317,14,Debit Card,Bi-Weekly
+1318,19,Cash,Monthly
+1319,19,Credit Card,Bi-Weekly
+1320,48,Bank Transfer,Weekly
+1321,19,Debit Card,Annually
+1322,45,Bank Transfer,Every 3 Months
+1323,17,Bank Transfer,Quarterly
+1324,15,Debit Card,Every 3 Months
+1325,11,Credit Card,Fortnightly
+1326,1,Cash,Monthly
+1327,17,Cash,Monthly
+1328,37,Cash,Weekly
+1329,40,Bank Transfer,Weekly
+1330,50,PayPal,Every 3 Months
+1331,20,PayPal,Bi-Weekly
+1332,8,PayPal,Bi-Weekly
+1333,16,Bank Transfer,Quarterly
+1334,9,Bank Transfer,Quarterly
+1335,12,Venmo,Monthly
+1336,26,Credit Card,Weekly
+1337,44,Debit Card,Fortnightly
+1338,19,Credit Card,Bi-Weekly
+1339,43,PayPal,Fortnightly
+1340,5,Bank Transfer,Every 3 Months
+1341,5,Debit Card,Every 3 Months
+1342,31,Bank Transfer,Quarterly
+1343,11,Bank Transfer,Monthly
+1344,34,Bank Transfer,Monthly
+1345,14,Cash,Annually
+1346,42,Venmo,Weekly
+1347,15,Venmo,Bi-Weekly
+1348,47,Bank Transfer,Monthly
+1349,23,Credit Card,Fortnightly
+1350,23,Cash,Bi-Weekly
+1351,1,Cash,Every 3 Months
+1352,28,Bank Transfer,Quarterly
+1353,37,Credit Card,Bi-Weekly
+1354,4,Cash,Every 3 Months
+1355,21,Bank Transfer,Quarterly
+1356,50,PayPal,Bi-Weekly
+1357,34,Bank Transfer,Annually
+1358,20,Cash,Quarterly
+1359,25,Venmo,Every 3 Months
+1360,26,Bank Transfer,Fortnightly
+1361,4,Bank Transfer,Annually
+1362,39,Debit Card,Monthly
+1363,29,Cash,Weekly
+1364,47,PayPal,Quarterly
+1365,5,Cash,Every 3 Months
+1366,18,Bank Transfer,Fortnightly
+1367,10,Credit Card,Fortnightly
+1368,25,Cash,Quarterly
+1369,2,Cash,Weekly
+1370,48,Venmo,Fortnightly
+1371,41,Bank Transfer,Every 3 Months
+1372,42,Credit Card,Monthly
+1373,44,PayPal,Bi-Weekly
+1374,6,Cash,Quarterly
+1375,5,Bank Transfer,Quarterly
+1376,8,Credit Card,Annually
+1377,24,PayPal,Annually
+1378,42,Venmo,Monthly
+1379,24,Venmo,Weekly
+1380,38,Venmo,Bi-Weekly
+1381,41,Cash,Fortnightly
+1382,48,Venmo,Quarterly
+1383,16,Bank Transfer,Quarterly
+1384,4,Venmo,Monthly
+1385,8,Bank Transfer,Weekly
+1386,1,Bank Transfer,Bi-Weekly
+1387,4,Debit Card,Quarterly
+1388,20,Credit Card,Monthly
+1389,40,Cash,Quarterly
+1390,8,Debit Card,Fortnightly
+1391,42,Debit Card,Weekly
+1392,38,Credit Card,Annually
+1393,34,Venmo,Every 3 Months
+1394,14,PayPal,Fortnightly
+1395,39,Cash,Weekly
+1396,40,PayPal,Bi-Weekly
+1397,49,Debit Card,Monthly
+1398,33,PayPal,Annually
+1399,25,Credit Card,Weekly
+1400,48,Venmo,Annually
+1401,22,Credit Card,Every 3 Months
+1402,1,PayPal,Weekly
+1403,47,PayPal,Monthly
+1404,20,Credit Card,Bi-Weekly
+1405,10,Debit Card,Weekly
+1406,39,Credit Card,Monthly
+1407,15,Debit Card,Monthly
+1408,11,Credit Card,Annually
+1409,38,Venmo,Weekly
+1410,41,Cash,Fortnightly
+1411,18,Debit Card,Annually
+1412,13,Venmo,Quarterly
+1413,43,Venmo,Annually
+1414,12,Bank Transfer,Quarterly
+1415,3,Credit Card,Bi-Weekly
+1416,12,Credit Card,Every 3 Months
+1417,46,Cash,Quarterly
+1418,21,Debit Card,Fortnightly
+1419,23,Venmo,Every 3 Months
+1420,4,Debit Card,Quarterly
+1421,45,PayPal,Every 3 Months
+1422,24,Bank Transfer,Fortnightly
+1423,3,PayPal,Bi-Weekly
+1424,12,Venmo,Every 3 Months
+1425,34,Bank Transfer,Every 3 Months
+1426,39,Credit Card,Annually
+1427,35,PayPal,Every 3 Months
+1428,8,Credit Card,Annually
+1429,42,PayPal,Quarterly
+1430,6,Credit Card,Every 3 Months
+1431,3,Credit Card,Fortnightly
+1432,29,Venmo,Quarterly
+1433,32,Debit Card,Quarterly
+1434,45,Debit Card,Weekly
+1435,21,Debit Card,Bi-Weekly
+1436,41,Cash,Weekly
+1437,23,PayPal,Fortnightly
+1438,14,Cash,Annually
+1439,24,Debit Card,Monthly
+1440,25,Cash,Fortnightly
+1441,13,Venmo,Monthly
+1442,3,Venmo,Every 3 Months
+1443,42,Credit Card,Annually
+1444,2,Cash,Monthly
+1445,26,Cash,Quarterly
+1446,24,Credit Card,Annually
+1447,6,Credit Card,Quarterly
+1448,25,PayPal,Monthly
+1449,11,Credit Card,Every 3 Months
+1450,20,Cash,Every 3 Months
+1451,25,Cash,Quarterly
+1452,35,PayPal,Quarterly
+1453,11,Bank Transfer,Quarterly
+1454,41,Bank Transfer,Fortnightly
+1455,17,Credit Card,Annually
+1456,1,PayPal,Every 3 Months
+1457,30,PayPal,Every 3 Months
+1458,47,Venmo,Fortnightly
+1459,34,Venmo,Weekly
+1460,18,Venmo,Fortnightly
+1461,33,Venmo,Bi-Weekly
+1462,42,Venmo,Quarterly
+1463,2,Venmo,Quarterly
+1464,1,Bank Transfer,Monthly
+1465,23,Bank Transfer,Quarterly
+1466,42,Cash,Bi-Weekly
+1467,3,PayPal,Annually
+1468,16,Debit Card,Fortnightly
+1469,46,Cash,Fortnightly
+1470,31,PayPal,Every 3 Months
+1471,15,Cash,Every 3 Months
+1472,48,Venmo,Every 3 Months
+1473,11,Cash,Weekly
+1474,20,Credit Card,Every 3 Months
+1475,6,Credit Card,Monthly
+1476,24,Cash,Monthly
+1477,18,Credit Card,Monthly
+1478,1,PayPal,Every 3 Months
+1479,13,Venmo,Bi-Weekly
+1480,2,Bank Transfer,Weekly
+1481,26,Cash,Quarterly
+1482,31,PayPal,Quarterly
+1483,43,Bank Transfer,Weekly
+1484,12,Debit Card,Bi-Weekly
+1485,22,Venmo,Every 3 Months
+1486,3,Cash,Fortnightly
+1487,23,Venmo,Every 3 Months
+1488,26,PayPal,Annually
+1489,37,Credit Card,Weekly
+1490,42,Venmo,Quarterly
+1491,15,Venmo,Bi-Weekly
+1492,10,Bank Transfer,Quarterly
+1493,3,Venmo,Quarterly
+1494,44,Credit Card,Quarterly
+1495,23,Bank Transfer,Fortnightly
+1496,6,PayPal,Weekly
+1497,9,Venmo,Bi-Weekly
+1498,16,Debit Card,Every 3 Months
+1499,46,Venmo,Fortnightly
+1500,24,Credit Card,Every 3 Months
+1501,22,Debit Card,Monthly
+1502,13,Debit Card,Every 3 Months
+1503,20,Cash,Fortnightly
+1504,46,Cash,Quarterly
+1505,10,Bank Transfer,Monthly
+1506,39,Cash,Monthly
+1507,44,PayPal,Quarterly
+1508,7,Venmo,Annually
+1509,3,Cash,Every 3 Months
+1510,44,Debit Card,Annually
+1511,31,Venmo,Annually
+1512,48,Credit Card,Weekly
+1513,18,PayPal,Bi-Weekly
+1514,27,Cash,Monthly
+1515,1,Venmo,Weekly
+1516,34,Cash,Weekly
+1517,5,Bank Transfer,Bi-Weekly
+1518,12,Cash,Quarterly
+1519,14,Venmo,Fortnightly
+1520,40,PayPal,Weekly
+1521,39,Cash,Quarterly
+1522,50,Bank Transfer,Weekly
+1523,5,Debit Card,Monthly
+1524,35,Debit Card,Annually
+1525,6,Cash,Bi-Weekly
+1526,22,Cash,Fortnightly
+1527,27,PayPal,Monthly
+1528,33,Debit Card,Fortnightly
+1529,47,Venmo,Bi-Weekly
+1530,48,Credit Card,Bi-Weekly
+1531,22,Bank Transfer,Quarterly
+1532,8,PayPal,Bi-Weekly
+1533,5,PayPal,Every 3 Months
+1534,16,Bank Transfer,Quarterly
+1535,26,Venmo,Fortnightly
+1536,8,Venmo,Monthly
+1537,17,Cash,Quarterly
+1538,50,Venmo,Annually
+1539,22,Venmo,Bi-Weekly
+1540,19,Cash,Every 3 Months
+1541,14,Bank Transfer,Monthly
+1542,35,Cash,Bi-Weekly
+1543,43,PayPal,Weekly
+1544,24,Venmo,Annually
+1545,17,Debit Card,Bi-Weekly
+1546,49,Bank Transfer,Annually
+1547,17,Bank Transfer,Annually
+1548,40,Cash,Quarterly
+1549,43,Bank Transfer,Weekly
+1550,19,Debit Card,Every 3 Months
+1551,40,Bank Transfer,Quarterly
+1552,13,Credit Card,Monthly
+1553,20,Credit Card,Monthly
+1554,21,Debit Card,Quarterly
+1555,18,Cash,Bi-Weekly
+1556,44,Cash,Quarterly
+1557,26,Credit Card,Quarterly
+1558,34,PayPal,Quarterly
+1559,24,Credit Card,Every 3 Months
+1560,23,PayPal,Fortnightly
+1561,3,Debit Card,Weekly
+1562,2,Bank Transfer,Quarterly
+1563,23,Venmo,Bi-Weekly
+1564,8,Cash,Weekly
+1565,30,Debit Card,Every 3 Months
+1566,48,PayPal,Annually
+1567,21,Cash,Bi-Weekly
+1568,9,Cash,Monthly
+1569,8,Debit Card,Monthly
+1570,29,Debit Card,Weekly
+1571,3,Bank Transfer,Every 3 Months
+1572,11,Bank Transfer,Fortnightly
+1573,16,Debit Card,Monthly
+1574,25,Debit Card,Weekly
+1575,32,PayPal,Bi-Weekly
+1576,28,Cash,Fortnightly
+1577,36,PayPal,Monthly
+1578,7,Venmo,Fortnightly
+1579,2,PayPal,Quarterly
+1580,6,Bank Transfer,Monthly
+1581,30,Cash,Annually
+1582,46,Cash,Quarterly
+1583,39,Cash,Monthly
+1584,8,Venmo,Annually
+1585,46,Credit Card,Quarterly
+1586,40,Debit Card,Fortnightly
+1587,21,Bank Transfer,Weekly
+1588,33,Credit Card,Fortnightly
+1589,3,Venmo,Monthly
+1590,48,Cash,Weekly
+1591,8,PayPal,Annually
+1592,24,PayPal,Annually
+1593,10,Bank Transfer,Every 3 Months
+1594,25,Bank Transfer,Monthly
+1595,3,Cash,Fortnightly
+1596,45,Debit Card,Fortnightly
+1597,15,Debit Card,Monthly
+1598,34,Bank Transfer,Quarterly
+1599,21,Venmo,Bi-Weekly
+1600,22,Debit Card,Bi-Weekly
+1601,24,PayPal,Weekly
+1602,33,Credit Card,Monthly
+1603,13,Venmo,Fortnightly
+1604,17,Debit Card,Bi-Weekly
+1605,25,Credit Card,Every 3 Months
+1606,15,Credit Card,Bi-Weekly
+1607,4,PayPal,Fortnightly
+1608,43,Debit Card,Quarterly
+1609,12,Bank Transfer,Bi-Weekly
+1610,3,Venmo,Monthly
+1611,1,PayPal,Annually
+1612,6,Debit Card,Monthly
+1613,26,Venmo,Monthly
+1614,6,Credit Card,Fortnightly
+1615,22,Cash,Bi-Weekly
+1616,45,Cash,Bi-Weekly
+1617,50,Cash,Quarterly
+1618,50,Credit Card,Fortnightly
+1619,39,Debit Card,Quarterly
+1620,50,Venmo,Bi-Weekly
+1621,27,PayPal,Every 3 Months
+1622,38,Debit Card,Fortnightly
+1623,37,Bank Transfer,Every 3 Months
+1624,50,Debit Card,Annually
+1625,40,PayPal,Every 3 Months
+1626,3,PayPal,Bi-Weekly
+1627,45,Credit Card,Bi-Weekly
+1628,8,Credit Card,Annually
+1629,7,Cash,Monthly
+1630,13,Venmo,Quarterly
+1631,29,Venmo,Every 3 Months
+1632,7,Bank Transfer,Fortnightly
+1633,50,Debit Card,Every 3 Months
+1634,33,Debit Card,Bi-Weekly
+1635,30,Cash,Every 3 Months
+1636,40,Cash,Annually
+1637,49,Cash,Fortnightly
+1638,32,Venmo,Fortnightly
+1639,18,Venmo,Weekly
+1640,50,PayPal,Annually
+1641,13,PayPal,Weekly
+1642,1,Bank Transfer,Every 3 Months
+1643,16,PayPal,Fortnightly
+1644,6,PayPal,Monthly
+1645,21,Debit Card,Monthly
+1646,36,Venmo,Every 3 Months
+1647,20,Bank Transfer,Every 3 Months
+1648,8,Debit Card,Quarterly
+1649,22,Credit Card,Monthly
+1650,3,Credit Card,Quarterly
+1651,46,Credit Card,Fortnightly
+1652,42,Debit Card,Monthly
+1653,1,Bank Transfer,Fortnightly
+1654,29,Debit Card,Bi-Weekly
+1655,14,Credit Card,Quarterly
+1656,4,PayPal,Monthly
+1657,41,PayPal,Every 3 Months
+1658,4,Debit Card,Bi-Weekly
+1659,47,Cash,Weekly
+1660,44,Venmo,Annually
+1661,37,Venmo,Monthly
+1662,21,Debit Card,Quarterly
+1663,46,Debit Card,Fortnightly
+1664,1,Cash,Bi-Weekly
+1665,35,PayPal,Weekly
+1666,49,Venmo,Monthly
+1667,47,PayPal,Annually
+1668,24,Bank Transfer,Every 3 Months
+1669,28,Debit Card,Fortnightly
+1670,22,Bank Transfer,Quarterly
+1671,20,Cash,Weekly
+1672,25,Bank Transfer,Weekly
+1673,15,Venmo,Quarterly
+1674,49,Venmo,Bi-Weekly
+1675,10,Debit Card,Fortnightly
+1676,21,Credit Card,Annually
+1677,34,Bank Transfer,Weekly
+1678,41,Debit Card,Weekly
+1679,30,Venmo,Fortnightly
+1680,24,Debit Card,Bi-Weekly
+1681,6,Credit Card,Annually
+1682,14,Credit Card,Bi-Weekly
+1683,37,Credit Card,Bi-Weekly
+1684,37,Venmo,Quarterly
+1685,28,PayPal,Weekly
+1686,43,PayPal,Bi-Weekly
+1687,25,Cash,Annually
+1688,4,PayPal,Annually
+1689,13,Venmo,Fortnightly
+1690,32,Bank Transfer,Monthly
+1691,1,Cash,Annually
+1692,4,Cash,Annually
+1693,33,Cash,Bi-Weekly
+1694,45,Bank Transfer,Fortnightly
+1695,20,Debit Card,Fortnightly
+1696,1,PayPal,Fortnightly
+1697,7,Credit Card,Bi-Weekly
+1698,48,Credit Card,Every 3 Months
+1699,46,Bank Transfer,Quarterly
+1700,34,Debit Card,Annually
+1701,36,Bank Transfer,Monthly
+1702,44,Debit Card,Every 3 Months
+1703,48,Bank Transfer,Weekly
+1704,12,Bank Transfer,Annually
+1705,19,Cash,Every 3 Months
+1706,49,Venmo,Bi-Weekly
+1707,25,Venmo,Fortnightly
+1708,25,Cash,Bi-Weekly
+1709,1,Credit Card,Quarterly
+1710,19,Bank Transfer,Annually
+1711,7,Credit Card,Quarterly
+1712,19,Credit Card,Monthly
+1713,9,Cash,Fortnightly
+1714,37,PayPal,Quarterly
+1715,15,Cash,Monthly
+1716,30,PayPal,Bi-Weekly
+1717,30,Cash,Every 3 Months
+1718,16,Debit Card,Bi-Weekly
+1719,14,PayPal,Every 3 Months
+1720,8,Venmo,Quarterly
+1721,40,Debit Card,Bi-Weekly
+1722,24,Credit Card,Monthly
+1723,14,Cash,Fortnightly
+1724,39,PayPal,Annually
+1725,21,PayPal,Weekly
+1726,32,Venmo,Quarterly
+1727,45,Debit Card,Weekly
+1728,19,PayPal,Monthly
+1729,1,Debit Card,Every 3 Months
+1730,12,Venmo,Fortnightly
+1731,26,Credit Card,Weekly
+1732,12,Cash,Monthly
+1733,36,Cash,Every 3 Months
+1734,22,Credit Card,Annually
+1735,16,PayPal,Quarterly
+1736,31,Venmo,Annually
+1737,43,Cash,Quarterly
+1738,50,Venmo,Bi-Weekly
+1739,37,Credit Card,Weekly
+1740,23,Cash,Weekly
+1741,10,Bank Transfer,Every 3 Months
+1742,20,Bank Transfer,Monthly
+1743,18,Venmo,Every 3 Months
+1744,3,Bank Transfer,Weekly
+1745,23,PayPal,Weekly
+1746,27,Cash,Weekly
+1747,44,Bank Transfer,Fortnightly
+1748,41,Venmo,Quarterly
+1749,41,Bank Transfer,Annually
+1750,36,Debit Card,Every 3 Months
+1751,38,Venmo,Every 3 Months
+1752,34,Cash,Annually
+1753,14,Venmo,Quarterly
+1754,23,Credit Card,Fortnightly
+1755,18,Credit Card,Fortnightly
+1756,45,Cash,Monthly
+1757,14,Bank Transfer,Weekly
+1758,48,Debit Card,Annually
+1759,17,Venmo,Bi-Weekly
+1760,1,PayPal,Weekly
+1761,39,PayPal,Weekly
+1762,24,Cash,Weekly
+1763,41,Bank Transfer,Fortnightly
+1764,28,PayPal,Annually
+1765,34,Venmo,Quarterly
+1766,41,Venmo,Quarterly
+1767,27,Cash,Bi-Weekly
+1768,46,Debit Card,Fortnightly
+1769,2,PayPal,Every 3 Months
+1770,45,Cash,Monthly
+1771,34,Bank Transfer,Weekly
+1772,9,Credit Card,Annually
+1773,1,Bank Transfer,Annually
+1774,17,PayPal,Annually
+1775,6,PayPal,Weekly
+1776,12,Cash,Bi-Weekly
+1777,10,Venmo,Every 3 Months
+1778,4,Cash,Fortnightly
+1779,8,Debit Card,Bi-Weekly
+1780,41,Venmo,Weekly
+1781,49,Credit Card,Weekly
+1782,49,Bank Transfer,Quarterly
+1783,40,Bank Transfer,Fortnightly
+1784,30,Credit Card,Monthly
+1785,4,Debit Card,Quarterly
+1786,22,Venmo,Monthly
+1787,22,Venmo,Monthly
+1788,10,Bank Transfer,Quarterly
+1789,23,Cash,Bi-Weekly
+1790,43,Debit Card,Quarterly
+1791,31,PayPal,Bi-Weekly
+1792,38,Cash,Annually
+1793,22,Debit Card,Every 3 Months
+1794,45,Cash,Every 3 Months
+1795,21,Debit Card,Fortnightly
+1796,9,Debit Card,Fortnightly
+1797,34,Venmo,Weekly
+1798,26,Venmo,Weekly
+1799,1,Cash,Weekly
+1800,47,Venmo,Weekly
+1801,30,Credit Card,Weekly
+1802,48,Debit Card,Fortnightly
+1803,31,Venmo,Bi-Weekly
+1804,33,Venmo,Fortnightly
+1805,39,Credit Card,Weekly
+1806,46,Debit Card,Weekly
+1807,24,Venmo,Annually
+1808,37,Venmo,Fortnightly
+1809,7,Debit Card,Monthly
+1810,6,Debit Card,Fortnightly
+1811,16,Cash,Bi-Weekly
+1812,33,Bank Transfer,Annually
+1813,18,PayPal,Bi-Weekly
+1814,24,PayPal,Weekly
+1815,24,Cash,Quarterly
+1816,48,Credit Card,Every 3 Months
+1817,4,Cash,Weekly
+1818,20,Cash,Weekly
+1819,47,Debit Card,Every 3 Months
+1820,50,Cash,Quarterly
+1821,31,PayPal,Monthly
+1822,29,PayPal,Quarterly
+1823,4,Cash,Annually
+1824,40,Bank Transfer,Bi-Weekly
+1825,31,Cash,Monthly
+1826,41,Credit Card,Weekly
+1827,44,Debit Card,Annually
+1828,31,Bank Transfer,Weekly
+1829,45,Cash,Every 3 Months
+1830,50,Credit Card,Quarterly
+1831,7,Venmo,Annually
+1832,5,Bank Transfer,Every 3 Months
+1833,48,Cash,Monthly
+1834,19,PayPal,Fortnightly
+1835,39,Venmo,Fortnightly
+1836,45,Credit Card,Quarterly
+1837,35,Credit Card,Monthly
+1838,8,Venmo,Monthly
+1839,11,Credit Card,Quarterly
+1840,32,Cash,Annually
+1841,46,Bank Transfer,Every 3 Months
+1842,7,PayPal,Every 3 Months
+1843,1,Debit Card,Annually
+1844,32,Credit Card,Monthly
+1845,31,Credit Card,Annually
+1846,39,Bank Transfer,Quarterly
+1847,9,Venmo,Quarterly
+1848,49,Credit Card,Weekly
+1849,34,Cash,Every 3 Months
+1850,35,Bank Transfer,Monthly
+1851,50,Debit Card,Weekly
+1852,4,Bank Transfer,Fortnightly
+1853,32,Cash,Weekly
+1854,11,PayPal,Fortnightly
+1855,49,Credit Card,Annually
+1856,9,Cash,Annually
+1857,30,PayPal,Bi-Weekly
+1858,33,Cash,Monthly
+1859,8,Debit Card,Annually
+1860,29,Debit Card,Fortnightly
+1861,4,Credit Card,Monthly
+1862,19,Debit Card,Monthly
+1863,10,PayPal,Fortnightly
+1864,39,Debit Card,Monthly
+1865,21,Venmo,Quarterly
+1866,12,Bank Transfer,Monthly
+1867,9,Credit Card,Fortnightly
+1868,20,Venmo,Quarterly
+1869,44,Cash,Fortnightly
+1870,16,Debit Card,Every 3 Months
+1871,27,Debit Card,Fortnightly
+1872,14,Cash,Every 3 Months
+1873,24,Credit Card,Monthly
+1874,49,Bank Transfer,Weekly
+1875,14,Cash,Weekly
+1876,6,Credit Card,Quarterly
+1877,20,Venmo,Quarterly
+1878,3,Credit Card,Annually
+1879,5,Credit Card,Monthly
+1880,46,Cash,Bi-Weekly
+1881,8,Debit Card,Monthly
+1882,13,Cash,Bi-Weekly
+1883,25,Bank Transfer,Quarterly
+1884,39,Debit Card,Fortnightly
+1885,15,Bank Transfer,Bi-Weekly
+1886,35,Cash,Monthly
+1887,46,Cash,Bi-Weekly
+1888,3,PayPal,Monthly
+1889,48,Credit Card,Weekly
+1890,27,Bank Transfer,Weekly
+1891,5,Credit Card,Weekly
+1892,48,Debit Card,Quarterly
+1893,12,Venmo,Weekly
+1894,10,PayPal,Fortnightly
+1895,48,Debit Card,Bi-Weekly
+1896,3,Debit Card,Monthly
+1897,19,Venmo,Monthly
+1898,11,Debit Card,Fortnightly
+1899,25,Venmo,Monthly
+1900,42,PayPal,Weekly
+1901,34,Cash,Quarterly
+1902,50,Cash,Quarterly
+1903,21,Venmo,Monthly
+1904,37,Bank Transfer,Weekly
+1905,46,Cash,Monthly
+1906,14,Bank Transfer,Fortnightly
+1907,24,PayPal,Fortnightly
+1908,36,Credit Card,Every 3 Months
+1909,19,Debit Card,Bi-Weekly
+1910,12,Credit Card,Monthly
+1911,13,Debit Card,Quarterly
+1912,32,Debit Card,Bi-Weekly
+1913,5,Credit Card,Bi-Weekly
+1914,29,Cash,Annually
+1915,40,Credit Card,Fortnightly
+1916,44,Cash,Weekly
+1917,3,Debit Card,Bi-Weekly
+1918,35,PayPal,Bi-Weekly
+1919,33,Debit Card,Monthly
+1920,20,PayPal,Bi-Weekly
+1921,40,Cash,Every 3 Months
+1922,13,Venmo,Annually
+1923,9,PayPal,Monthly
+1924,7,Cash,Annually
+1925,42,PayPal,Quarterly
+1926,44,Credit Card,Fortnightly
+1927,6,PayPal,Annually
+1928,8,Cash,Every 3 Months
+1929,10,PayPal,Weekly
+1930,46,Venmo,Quarterly
+1931,26,Cash,Weekly
+1932,6,Debit Card,Every 3 Months
+1933,47,Credit Card,Every 3 Months
+1934,28,Venmo,Annually
+1935,23,Bank Transfer,Annually
+1936,45,Cash,Fortnightly
+1937,44,PayPal,Every 3 Months
+1938,11,Bank Transfer,Monthly
+1939,39,Debit Card,Bi-Weekly
+1940,20,PayPal,Every 3 Months
+1941,48,PayPal,Fortnightly
+1942,46,Credit Card,Quarterly
+1943,22,PayPal,Monthly
+1944,45,Cash,Annually
+1945,49,Cash,Every 3 Months
+1946,9,Credit Card,Every 3 Months
+1947,41,Credit Card,Quarterly
+1948,2,PayPal,Monthly
+1949,39,PayPal,Bi-Weekly
+1950,12,PayPal,Quarterly
+1951,26,PayPal,Every 3 Months
+1952,32,Bank Transfer,Bi-Weekly
+1953,50,Cash,Bi-Weekly
+1954,3,PayPal,Fortnightly
+1955,3,Venmo,Quarterly
+1956,37,Cash,Monthly
+1957,20,Credit Card,Fortnightly
+1958,26,Cash,Bi-Weekly
+1959,47,Cash,Quarterly
+1960,7,Credit Card,Every 3 Months
+1961,40,Credit Card,Annually
+1962,45,Debit Card,Quarterly
+1963,20,PayPal,Fortnightly
+1964,11,Credit Card,Weekly
+1965,50,Debit Card,Monthly
+1966,25,Debit Card,Quarterly
+1967,5,Credit Card,Fortnightly
+1968,4,Venmo,Annually
+1969,25,Credit Card,Weekly
+1970,11,Bank Transfer,Fortnightly
+1971,4,Credit Card,Bi-Weekly
+1972,1,Venmo,Monthly
+1973,48,PayPal,Every 3 Months
+1974,9,Venmo,Every 3 Months
+1975,2,PayPal,Fortnightly
+1976,4,Cash,Quarterly
+1977,43,PayPal,Fortnightly
+1978,32,Bank Transfer,Annually
+1979,1,Cash,Quarterly
+1980,38,Debit Card,Fortnightly
+1981,25,PayPal,Fortnightly
+1982,42,PayPal,Quarterly
+1983,32,PayPal,Monthly
+1984,21,Debit Card,Quarterly
+1985,26,PayPal,Fortnightly
+1986,6,Credit Card,Fortnightly
+1987,14,Venmo,Quarterly
+1988,4,Cash,Quarterly
+1989,26,Bank Transfer,Weekly
+1990,39,PayPal,Bi-Weekly
+1991,15,PayPal,Annually
+1992,1,Venmo,Every 3 Months
+1993,28,Venmo,Monthly
+1994,17,Cash,Weekly
+1995,24,Credit Card,Weekly
+1996,29,Debit Card,Quarterly
+1997,18,Cash,Every 3 Months
+1998,10,Debit Card,Bi-Weekly
+1999,19,Cash,Quarterly
+2000,26,Debit Card,Monthly
+2001,25,Cash,Bi-Weekly
+2002,2,Debit Card,Fortnightly
+2003,19,PayPal,Every 3 Months
+2004,32,Cash,Quarterly
+2005,13,Cash,Bi-Weekly
+2006,30,PayPal,Fortnightly
+2007,2,Credit Card,Annually
+2008,8,PayPal,Quarterly
+2009,27,PayPal,Every 3 Months
+2010,26,Venmo,Bi-Weekly
+2011,3,Debit Card,Bi-Weekly
+2012,4,Bank Transfer,Monthly
+2013,5,Cash,Fortnightly
+2014,25,Debit Card,Quarterly
+2015,47,PayPal,Bi-Weekly
+2016,8,Credit Card,Fortnightly
+2017,20,Debit Card,Fortnightly
+2018,42,Bank Transfer,Every 3 Months
+2019,20,Bank Transfer,Weekly
+2020,23,Cash,Fortnightly
+2021,26,Cash,Quarterly
+2022,48,Venmo,Quarterly
+2023,16,Cash,Bi-Weekly
+2024,28,Cash,Bi-Weekly
+2025,39,PayPal,Weekly
+2026,43,Debit Card,Fortnightly
+2027,45,Bank Transfer,Every 3 Months
+2028,50,Credit Card,Every 3 Months
+2029,10,Venmo,Bi-Weekly
+2030,40,PayPal,Quarterly
+2031,38,Credit Card,Monthly
+2032,2,Credit Card,Monthly
+2033,13,Cash,Annually
+2034,33,Venmo,Annually
+2035,27,PayPal,Monthly
+2036,43,Bank Transfer,Weekly
+2037,46,Cash,Weekly
+2038,7,Venmo,Bi-Weekly
+2039,35,Credit Card,Fortnightly
+2040,31,Debit Card,Bi-Weekly
+2041,42,Venmo,Quarterly
+2042,14,PayPal,Bi-Weekly
+2043,35,Venmo,Monthly
+2044,49,PayPal,Weekly
+2045,17,PayPal,Fortnightly
+2046,26,PayPal,Quarterly
+2047,30,Cash,Every 3 Months
+2048,32,Cash,Annually
+2049,35,Bank Transfer,Quarterly
+2050,15,Venmo,Annually
+2051,10,Debit Card,Annually
+2052,14,Credit Card,Monthly
+2053,30,Bank Transfer,Annually
+2054,16,Credit Card,Fortnightly
+2055,14,PayPal,Annually
+2056,28,Bank Transfer,Weekly
+2057,29,PayPal,Monthly
+2058,5,PayPal,Every 3 Months
+2059,17,Bank Transfer,Quarterly
+2060,50,PayPal,Weekly
+2061,23,Bank Transfer,Quarterly
+2062,22,Debit Card,Annually
+2063,15,Cash,Quarterly
+2064,32,Cash,Monthly
+2065,5,Bank Transfer,Monthly
+2066,6,Bank Transfer,Bi-Weekly
+2067,44,Debit Card,Fortnightly
+2068,23,Cash,Fortnightly
+2069,44,Venmo,Monthly
+2070,3,Debit Card,Quarterly
+2071,14,Cash,Monthly
+2072,37,PayPal,Quarterly
+2073,22,Bank Transfer,Weekly
+2074,2,PayPal,Every 3 Months
+2075,44,Debit Card,Fortnightly
+2076,49,Debit Card,Monthly
+2077,22,Debit Card,Bi-Weekly
+2078,26,Bank Transfer,Annually
+2079,40,Debit Card,Weekly
+2080,16,PayPal,Quarterly
+2081,17,Debit Card,Bi-Weekly
+2082,48,Bank Transfer,Bi-Weekly
+2083,28,Venmo,Every 3 Months
+2084,26,Credit Card,Fortnightly
+2085,43,Bank Transfer,Quarterly
+2086,38,Debit Card,Weekly
+2087,36,Cash,Every 3 Months
+2088,1,Credit Card,Weekly
+2089,49,Debit Card,Annually
+2090,41,Credit Card,Every 3 Months
+2091,21,Debit Card,Monthly
+2092,24,Bank Transfer,Quarterly
+2093,27,Bank Transfer,Weekly
+2094,4,Debit Card,Annually
+2095,19,Venmo,Annually
+2096,1,Bank Transfer,Fortnightly
+2097,27,Debit Card,Annually
+2098,5,Credit Card,Weekly
+2099,20,Venmo,Quarterly
+2100,50,PayPal,Annually
+2101,36,Cash,Fortnightly
+2102,12,Bank Transfer,Bi-Weekly
+2103,23,Cash,Monthly
+2104,21,Venmo,Weekly
+2105,47,Venmo,Weekly
+2106,38,Venmo,Bi-Weekly
+2107,40,Credit Card,Every 3 Months
+2108,35,PayPal,Quarterly
+2109,4,Credit Card,Quarterly
+2110,28,Venmo,Every 3 Months
+2111,36,Debit Card,Every 3 Months
+2112,15,Bank Transfer,Annually
+2113,7,Cash,Fortnightly
+2114,29,PayPal,Every 3 Months
+2115,12,Debit Card,Annually
+2116,16,Bank Transfer,Bi-Weekly
+2117,50,Debit Card,Bi-Weekly
+2118,11,Debit Card,Annually
+2119,28,Debit Card,Quarterly
+2120,36,Venmo,Bi-Weekly
+2121,38,PayPal,Quarterly
+2122,32,Bank Transfer,Monthly
+2123,42,Debit Card,Weekly
+2124,22,Debit Card,Bi-Weekly
+2125,22,Venmo,Quarterly
+2126,31,PayPal,Quarterly
+2127,28,Credit Card,Monthly
+2128,40,Debit Card,Weekly
+2129,21,PayPal,Weekly
+2130,12,PayPal,Every 3 Months
+2131,33,Credit Card,Annually
+2132,9,Bank Transfer,Fortnightly
+2133,15,Debit Card,Weekly
+2134,13,Bank Transfer,Annually
+2135,35,Credit Card,Fortnightly
+2136,1,Debit Card,Every 3 Months
+2137,25,Bank Transfer,Fortnightly
+2138,20,Credit Card,Every 3 Months
+2139,36,Venmo,Quarterly
+2140,33,Cash,Weekly
+2141,36,Cash,Fortnightly
+2142,32,PayPal,Annually
+2143,21,Venmo,Quarterly
+2144,48,Venmo,Bi-Weekly
+2145,25,PayPal,Quarterly
+2146,32,PayPal,Annually
+2147,45,PayPal,Every 3 Months
+2148,4,Cash,Fortnightly
+2149,19,PayPal,Bi-Weekly
+2150,1,Bank Transfer,Weekly
+2151,12,Cash,Weekly
+2152,18,Venmo,Monthly
+2153,43,Bank Transfer,Bi-Weekly
+2154,31,PayPal,Annually
+2155,33,Cash,Every 3 Months
+2156,46,PayPal,Monthly
+2157,41,Debit Card,Bi-Weekly
+2158,41,Venmo,Fortnightly
+2159,9,Bank Transfer,Fortnightly
+2160,34,Cash,Annually
+2161,21,PayPal,Annually
+2162,5,Debit Card,Fortnightly
+2163,32,PayPal,Weekly
+2164,44,Bank Transfer,Monthly
+2165,46,PayPal,Bi-Weekly
+2166,42,Credit Card,Every 3 Months
+2167,50,Credit Card,Bi-Weekly
+2168,33,Venmo,Fortnightly
+2169,32,Cash,Quarterly
+2170,32,Bank Transfer,Bi-Weekly
+2171,37,Venmo,Every 3 Months
+2172,9,Cash,Fortnightly
+2173,6,PayPal,Fortnightly
+2174,36,Venmo,Quarterly
+2175,1,Cash,Annually
+2176,48,Credit Card,Fortnightly
+2177,44,Debit Card,Quarterly
+2178,9,PayPal,Bi-Weekly
+2179,32,Venmo,Annually
+2180,14,PayPal,Monthly
+2181,43,Cash,Quarterly
+2182,32,Bank Transfer,Bi-Weekly
+2183,26,Venmo,Bi-Weekly
+2184,2,Cash,Monthly
+2185,16,PayPal,Every 3 Months
+2186,50,Debit Card,Every 3 Months
+2187,6,PayPal,Every 3 Months
+2188,20,PayPal,Annually
+2189,9,Credit Card,Weekly
+2190,47,Credit Card,Bi-Weekly
+2191,33,Credit Card,Annually
+2192,46,Cash,Bi-Weekly
+2193,9,Credit Card,Monthly
+2194,8,PayPal,Monthly
+2195,48,Bank Transfer,Quarterly
+2196,2,Cash,Monthly
+2197,31,PayPal,Weekly
+2198,40,Venmo,Monthly
+2199,35,Venmo,Monthly
+2200,40,Debit Card,Monthly
+2201,27,Debit Card,Every 3 Months
+2202,10,Venmo,Annually
+2203,23,Credit Card,Weekly
+2204,32,Cash,Quarterly
+2205,6,Debit Card,Monthly
+2206,27,PayPal,Weekly
+2207,25,Bank Transfer,Fortnightly
+2208,11,Credit Card,Annually
+2209,23,PayPal,Monthly
+2210,44,Bank Transfer,Quarterly
+2211,35,PayPal,Fortnightly
+2212,45,Debit Card,Every 3 Months
+2213,22,Bank Transfer,Quarterly
+2214,18,Debit Card,Quarterly
+2215,20,Debit Card,Weekly
+2216,28,Credit Card,Fortnightly
+2217,15,Venmo,Bi-Weekly
+2218,42,Bank Transfer,Fortnightly
+2219,20,Debit Card,Quarterly
+2220,16,Bank Transfer,Fortnightly
+2221,47,Cash,Annually
+2222,34,Credit Card,Annually
+2223,30,Credit Card,Weekly
+2224,5,PayPal,Quarterly
+2225,38,Cash,Quarterly
+2226,18,Credit Card,Annually
+2227,28,Cash,Annually
+2228,42,Credit Card,Fortnightly
+2229,5,Credit Card,Weekly
+2230,50,Venmo,Monthly
+2231,33,Venmo,Fortnightly
+2232,1,Credit Card,Weekly
+2233,14,Cash,Fortnightly
+2234,48,Credit Card,Monthly
+2235,26,Cash,Weekly
+2236,44,Credit Card,Annually
+2237,18,Debit Card,Fortnightly
+2238,31,Venmo,Every 3 Months
+2239,18,Debit Card,Weekly
+2240,41,Credit Card,Every 3 Months
+2241,18,Debit Card,Every 3 Months
+2242,3,Bank Transfer,Bi-Weekly
+2243,5,Credit Card,Bi-Weekly
+2244,13,Debit Card,Annually
+2245,22,PayPal,Annually
+2246,45,PayPal,Fortnightly
+2247,39,PayPal,Every 3 Months
+2248,18,Venmo,Annually
+2249,19,PayPal,Fortnightly
+2250,29,Debit Card,Weekly
+2251,19,Credit Card,Weekly
+2252,22,Debit Card,Monthly
+2253,21,Bank Transfer,Annually
+2254,22,PayPal,Monthly
+2255,44,PayPal,Every 3 Months
+2256,42,Bank Transfer,Quarterly
+2257,33,Credit Card,Quarterly
+2258,6,Bank Transfer,Annually
+2259,44,Credit Card,Every 3 Months
+2260,24,Cash,Annually
+2261,16,PayPal,Quarterly
+2262,12,Bank Transfer,Fortnightly
+2263,50,PayPal,Monthly
+2264,42,Cash,Quarterly
+2265,50,PayPal,Monthly
+2266,10,PayPal,Quarterly
+2267,32,Debit Card,Weekly
+2268,37,Venmo,Weekly
+2269,15,Bank Transfer,Monthly
+2270,27,Credit Card,Annually
+2271,7,Venmo,Weekly
+2272,49,PayPal,Quarterly
+2273,44,PayPal,Monthly
+2274,13,PayPal,Bi-Weekly
+2275,38,PayPal,Fortnightly
+2276,10,Debit Card,Weekly
+2277,25,Debit Card,Weekly
+2278,18,Credit Card,Quarterly
+2279,6,Cash,Every 3 Months
+2280,35,Bank Transfer,Quarterly
+2281,31,Credit Card,Fortnightly
+2282,41,Bank Transfer,Annually
+2283,8,Credit Card,Annually
+2284,34,Credit Card,Fortnightly
+2285,20,Venmo,Annually
+2286,38,PayPal,Every 3 Months
+2287,35,Venmo,Quarterly
+2288,6,Debit Card,Annually
+2289,50,PayPal,Weekly
+2290,47,Venmo,Weekly
+2291,23,PayPal,Quarterly
+2292,13,Credit Card,Quarterly
+2293,31,Debit Card,Monthly
+2294,16,Debit Card,Every 3 Months
+2295,40,Debit Card,Annually
+2296,45,PayPal,Quarterly
+2297,50,Venmo,Every 3 Months
+2298,1,Bank Transfer,Quarterly
+2299,10,Cash,Every 3 Months
+2300,48,Credit Card,Every 3 Months
+2301,38,Credit Card,Monthly
+2302,21,Debit Card,Annually
+2303,38,Venmo,Monthly
+2304,31,Credit Card,Fortnightly
+2305,9,Debit Card,Fortnightly
+2306,47,Cash,Weekly
+2307,8,Cash,Bi-Weekly
+2308,30,Debit Card,Annually
+2309,22,Bank Transfer,Quarterly
+2310,3,Bank Transfer,Quarterly
+2311,15,PayPal,Monthly
+2312,10,Bank Transfer,Every 3 Months
+2313,19,Cash,Every 3 Months
+2314,36,Bank Transfer,Fortnightly
+2315,12,Bank Transfer,Every 3 Months
+2316,49,Debit Card,Quarterly
+2317,7,Debit Card,Annually
+2318,28,Bank Transfer,Monthly
+2319,30,Credit Card,Annually
+2320,29,PayPal,Monthly
+2321,9,Debit Card,Every 3 Months
+2322,27,Debit Card,Fortnightly
+2323,21,Venmo,Fortnightly
+2324,36,Credit Card,Monthly
+2325,19,Debit Card,Annually
+2326,47,Cash,Weekly
+2327,38,Bank Transfer,Annually
+2328,22,Venmo,Bi-Weekly
+2329,29,Venmo,Bi-Weekly
+2330,42,Bank Transfer,Annually
+2331,47,PayPal,Every 3 Months
+2332,10,Credit Card,Bi-Weekly
+2333,10,Venmo,Monthly
+2334,1,PayPal,Every 3 Months
+2335,7,Credit Card,Monthly
+2336,10,Venmo,Fortnightly
+2337,11,Credit Card,Weekly
+2338,5,Cash,Annually
+2339,21,PayPal,Quarterly
+2340,24,Bank Transfer,Quarterly
+2341,37,Credit Card,Fortnightly
+2342,22,Venmo,Every 3 Months
+2343,16,Debit Card,Fortnightly
+2344,44,PayPal,Monthly
+2345,14,Venmo,Bi-Weekly
+2346,23,Bank Transfer,Every 3 Months
+2347,46,Debit Card,Fortnightly
+2348,46,Cash,Every 3 Months
+2349,16,PayPal,Every 3 Months
+2350,40,Credit Card,Every 3 Months
+2351,21,Cash,Annually
+2352,25,PayPal,Bi-Weekly
+2353,25,Bank Transfer,Quarterly
+2354,25,Debit Card,Every 3 Months
+2355,27,Venmo,Monthly
+2356,12,Cash,Monthly
+2357,27,Debit Card,Quarterly
+2358,40,Credit Card,Bi-Weekly
+2359,38,Credit Card,Quarterly
+2360,44,Bank Transfer,Every 3 Months
+2361,27,Venmo,Every 3 Months
+2362,30,Credit Card,Every 3 Months
+2363,24,Credit Card,Monthly
+2364,38,Cash,Bi-Weekly
+2365,4,PayPal,Quarterly
+2366,32,Venmo,Monthly
+2367,32,Credit Card,Fortnightly
+2368,28,Bank Transfer,Bi-Weekly
+2369,6,Debit Card,Every 3 Months
+2370,24,PayPal,Monthly
+2371,38,Venmo,Weekly
+2372,28,Debit Card,Annually
+2373,9,PayPal,Fortnightly
+2374,21,Debit Card,Every 3 Months
+2375,31,Debit Card,Monthly
+2376,18,Credit Card,Quarterly
+2377,5,Cash,Weekly
+2378,22,Cash,Annually
+2379,37,PayPal,Bi-Weekly
+2380,22,Debit Card,Monthly
+2381,36,PayPal,Fortnightly
+2382,23,PayPal,Annually
+2383,44,Debit Card,Weekly
+2384,25,Bank Transfer,Annually
+2385,40,PayPal,Quarterly
+2386,12,PayPal,Weekly
+2387,14,Venmo,Monthly
+2388,14,Debit Card,Monthly
+2389,10,Debit Card,Annually
+2390,17,Bank Transfer,Every 3 Months
+2391,24,Debit Card,Fortnightly
+2392,31,Bank Transfer,Quarterly
+2393,36,Cash,Annually
+2394,38,PayPal,Every 3 Months
+2395,23,Debit Card,Fortnightly
+2396,47,PayPal,Bi-Weekly
+2397,20,Venmo,Weekly
+2398,41,Venmo,Monthly
+2399,44,Bank Transfer,Fortnightly
+2400,31,Cash,Monthly
+2401,11,Credit Card,Bi-Weekly
+2402,25,PayPal,Bi-Weekly
+2403,31,Cash,Weekly
+2404,40,Debit Card,Weekly
+2405,23,Credit Card,Bi-Weekly
+2406,5,Debit Card,Quarterly
+2407,26,PayPal,Weekly
+2408,11,Credit Card,Bi-Weekly
+2409,44,Debit Card,Every 3 Months
+2410,47,Cash,Every 3 Months
+2411,46,PayPal,Monthly
+2412,35,Cash,Every 3 Months
+2413,8,Bank Transfer,Bi-Weekly
+2414,30,Bank Transfer,Weekly
+2415,14,Credit Card,Bi-Weekly
+2416,30,Bank Transfer,Weekly
+2417,26,Credit Card,Every 3 Months
+2418,32,Venmo,Fortnightly
+2419,47,Cash,Every 3 Months
+2420,11,Credit Card,Every 3 Months
+2421,28,PayPal,Annually
+2422,2,Debit Card,Every 3 Months
+2423,45,Credit Card,Weekly
+2424,7,Credit Card,Every 3 Months
+2425,28,Bank Transfer,Bi-Weekly
+2426,34,Bank Transfer,Quarterly
+2427,26,Debit Card,Every 3 Months
+2428,45,Cash,Quarterly
+2429,34,Debit Card,Annually
+2430,47,Credit Card,Fortnightly
+2431,42,Cash,Quarterly
+2432,27,Bank Transfer,Every 3 Months
+2433,43,Venmo,Monthly
+2434,16,Cash,Bi-Weekly
+2435,40,Credit Card,Monthly
+2436,29,Cash,Bi-Weekly
+2437,38,Credit Card,Quarterly
+2438,34,Credit Card,Weekly
+2439,30,Venmo,Weekly
+2440,45,Bank Transfer,Annually
+2441,47,Bank Transfer,Annually
+2442,5,Credit Card,Monthly
+2443,50,Debit Card,Bi-Weekly
+2444,24,Bank Transfer,Bi-Weekly
+2445,15,Debit Card,Bi-Weekly
+2446,50,Cash,Weekly
+2447,7,Credit Card,Monthly
+2448,10,Venmo,Fortnightly
+2449,38,PayPal,Bi-Weekly
+2450,31,Venmo,Fortnightly
+2451,7,Venmo,Quarterly
+2452,27,Venmo,Monthly
+2453,45,Bank Transfer,Every 3 Months
+2454,13,Cash,Annually
+2455,33,Venmo,Annually
+2456,25,Cash,Every 3 Months
+2457,5,PayPal,Monthly
+2458,23,Cash,Quarterly
+2459,17,Bank Transfer,Weekly
+2460,14,Cash,Weekly
+2461,28,Credit Card,Annually
+2462,19,Credit Card,Weekly
+2463,31,Bank Transfer,Bi-Weekly
+2464,25,Cash,Bi-Weekly
+2465,4,Cash,Bi-Weekly
+2466,20,Bank Transfer,Weekly
+2467,37,Cash,Annually
+2468,28,Credit Card,Annually
+2469,6,Venmo,Weekly
+2470,27,PayPal,Annually
+2471,29,Credit Card,Fortnightly
+2472,1,Cash,Annually
+2473,31,Credit Card,Annually
+2474,28,Cash,Quarterly
+2475,19,Bank Transfer,Quarterly
+2476,36,Venmo,Monthly
+2477,28,Cash,Monthly
+2478,29,PayPal,Weekly
+2479,9,Bank Transfer,Every 3 Months
+2480,26,Credit Card,Every 3 Months
+2481,7,Credit Card,Fortnightly
+2482,35,Debit Card,Weekly
+2483,46,Credit Card,Every 3 Months
+2484,8,Debit Card,Monthly
+2485,50,Cash,Every 3 Months
+2486,37,Bank Transfer,Annually
+2487,6,Credit Card,Fortnightly
+2488,16,PayPal,Bi-Weekly
+2489,30,PayPal,Monthly
+2490,50,Venmo,Quarterly
+2491,5,Cash,Every 3 Months
+2492,15,Bank Transfer,Monthly
+2493,34,Bank Transfer,Bi-Weekly
+2494,6,Venmo,Every 3 Months
+2495,26,Debit Card,Annually
+2496,34,Credit Card,Every 3 Months
+2497,37,Credit Card,Weekly
+2498,28,Bank Transfer,Annually
+2499,38,Cash,Fortnightly
+2500,2,Cash,Quarterly
+2501,32,Cash,Bi-Weekly
+2502,30,Venmo,Bi-Weekly
+2503,17,PayPal,Every 3 Months
+2504,5,Debit Card,Bi-Weekly
+2505,31,Cash,Bi-Weekly
+2506,43,PayPal,Quarterly
+2507,19,Venmo,Annually
+2508,32,Credit Card,Every 3 Months
+2509,5,Debit Card,Bi-Weekly
+2510,9,Bank Transfer,Quarterly
+2511,48,Credit Card,Weekly
+2512,1,PayPal,Quarterly
+2513,20,Credit Card,Monthly
+2514,42,Cash,Annually
+2515,45,PayPal,Bi-Weekly
+2516,41,Cash,Monthly
+2517,36,Debit Card,Quarterly
+2518,10,Venmo,Annually
+2519,31,Venmo,Annually
+2520,21,Credit Card,Quarterly
+2521,16,Cash,Every 3 Months
+2522,18,PayPal,Every 3 Months
+2523,20,Debit Card,Weekly
+2524,21,Bank Transfer,Annually
+2525,23,Credit Card,Quarterly
+2526,20,PayPal,Weekly
+2527,30,PayPal,Bi-Weekly
+2528,33,Bank Transfer,Every 3 Months
+2529,31,Debit Card,Monthly
+2530,48,Bank Transfer,Monthly
+2531,28,Debit Card,Weekly
+2532,7,Cash,Every 3 Months
+2533,4,Debit Card,Weekly
+2534,49,Cash,Bi-Weekly
+2535,22,Cash,Weekly
+2536,39,Bank Transfer,Fortnightly
+2537,45,PayPal,Every 3 Months
+2538,30,PayPal,Fortnightly
+2539,33,Credit Card,Bi-Weekly
+2540,24,Cash,Bi-Weekly
+2541,11,Debit Card,Quarterly
+2542,13,Venmo,Every 3 Months
+2543,27,PayPal,Annually
+2544,30,PayPal,Bi-Weekly
+2545,39,Venmo,Quarterly
+2546,10,Debit Card,Annually
+2547,4,Credit Card,Quarterly
+2548,16,Cash,Weekly
+2549,34,Credit Card,Monthly
+2550,11,Debit Card,Every 3 Months
+2551,30,Debit Card,Fortnightly
+2552,40,Debit Card,Annually
+2553,13,Credit Card,Annually
+2554,28,Venmo,Every 3 Months
+2555,49,Debit Card,Bi-Weekly
+2556,23,Credit Card,Weekly
+2557,4,Bank Transfer,Quarterly
+2558,17,PayPal,Fortnightly
+2559,24,PayPal,Fortnightly
+2560,21,Debit Card,Every 3 Months
+2561,17,Debit Card,Bi-Weekly
+2562,22,Debit Card,Quarterly
+2563,27,Cash,Fortnightly
+2564,1,Venmo,Every 3 Months
+2565,27,Bank Transfer,Weekly
+2566,8,Venmo,Quarterly
+2567,43,PayPal,Quarterly
+2568,24,Cash,Fortnightly
+2569,29,PayPal,Fortnightly
+2570,10,Bank Transfer,Bi-Weekly
+2571,12,PayPal,Fortnightly
+2572,48,Cash,Fortnightly
+2573,40,Bank Transfer,Quarterly
+2574,1,Bank Transfer,Annually
+2575,26,Credit Card,Fortnightly
+2576,9,PayPal,Annually
+2577,19,Debit Card,Quarterly
+2578,37,Bank Transfer,Monthly
+2579,3,Cash,Quarterly
+2580,40,Venmo,Weekly
+2581,13,Bank Transfer,Quarterly
+2582,48,Credit Card,Monthly
+2583,4,Venmo,Every 3 Months
+2584,9,Cash,Weekly
+2585,26,Bank Transfer,Bi-Weekly
+2586,19,Debit Card,Weekly
+2587,1,Credit Card,Every 3 Months
+2588,29,PayPal,Every 3 Months
+2589,38,Venmo,Bi-Weekly
+2590,31,PayPal,Annually
+2591,35,Venmo,Annually
+2592,40,Cash,Quarterly
+2593,13,Venmo,Quarterly
+2594,9,Bank Transfer,Every 3 Months
+2595,25,Cash,Every 3 Months
+2596,3,Bank Transfer,Bi-Weekly
+2597,35,Credit Card,Monthly
+2598,13,Venmo,Bi-Weekly
+2599,31,Debit Card,Annually
+2600,48,Credit Card,Monthly
+2601,6,Bank Transfer,Bi-Weekly
+2602,43,Cash,Monthly
+2603,1,Venmo,Quarterly
+2604,8,Cash,Annually
+2605,6,Debit Card,Weekly
+2606,32,Venmo,Fortnightly
+2607,46,Bank Transfer,Bi-Weekly
+2608,38,PayPal,Every 3 Months
+2609,48,Credit Card,Fortnightly
+2610,18,Debit Card,Bi-Weekly
+2611,25,Cash,Quarterly
+2612,4,Cash,Fortnightly
+2613,27,Venmo,Quarterly
+2614,14,Bank Transfer,Monthly
+2615,36,Bank Transfer,Fortnightly
+2616,6,Debit Card,Quarterly
+2617,46,Cash,Annually
+2618,29,Bank Transfer,Annually
+2619,12,Venmo,Monthly
+2620,47,Credit Card,Weekly
+2621,28,Debit Card,Annually
+2622,21,Bank Transfer,Annually
+2623,15,Credit Card,Annually
+2624,38,Cash,Annually
+2625,19,Credit Card,Annually
+2626,31,Credit Card,Weekly
+2627,30,Credit Card,Every 3 Months
+2628,40,Bank Transfer,Quarterly
+2629,42,Credit Card,Bi-Weekly
+2630,25,Venmo,Annually
+2631,20,Cash,Quarterly
+2632,3,Cash,Weekly
+2633,14,Cash,Annually
+2634,32,Credit Card,Fortnightly
+2635,20,PayPal,Every 3 Months
+2636,34,PayPal,Fortnightly
+2637,6,Venmo,Annually
+2638,2,PayPal,Annually
+2639,35,Credit Card,Annually
+2640,33,Debit Card,Quarterly
+2641,45,Venmo,Bi-Weekly
+2642,20,Bank Transfer,Every 3 Months
+2643,48,Bank Transfer,Annually
+2644,37,Cash,Monthly
+2645,4,Bank Transfer,Every 3 Months
+2646,24,Bank Transfer,Bi-Weekly
+2647,4,Debit Card,Every 3 Months
+2648,25,Debit Card,Annually
+2649,14,PayPal,Bi-Weekly
+2650,14,Bank Transfer,Fortnightly
+2651,46,Credit Card,Every 3 Months
+2652,27,PayPal,Quarterly
+2653,46,Credit Card,Monthly
+2654,24,Venmo,Every 3 Months
+2655,4,PayPal,Annually
+2656,2,Credit Card,Fortnightly
+2657,29,Bank Transfer,Fortnightly
+2658,7,Credit Card,Fortnightly
+2659,39,PayPal,Monthly
+2660,46,Credit Card,Fortnightly
+2661,44,Venmo,Annually
+2662,20,Bank Transfer,Annually
+2663,44,PayPal,Fortnightly
+2664,23,Bank Transfer,Annually
+2665,37,PayPal,Weekly
+2666,4,Venmo,Weekly
+2667,14,Venmo,Fortnightly
+2668,31,Cash,Fortnightly
+2669,9,PayPal,Quarterly
+2670,31,Credit Card,Weekly
+2671,26,Bank Transfer,Bi-Weekly
+2672,41,PayPal,Every 3 Months
+2673,13,Cash,Annually
+2674,4,Cash,Monthly
+2675,15,Cash,Every 3 Months
+2676,38,Cash,Bi-Weekly
+2677,3,Cash,Fortnightly
+2678,6,PayPal,Every 3 Months
+2679,34,Credit Card,Bi-Weekly
+2680,7,Debit Card,Quarterly
+2681,21,Venmo,Annually
+2682,17,Debit Card,Monthly
+2683,5,Venmo,Every 3 Months
+2684,21,Cash,Fortnightly
+2685,42,Credit Card,Bi-Weekly
+2686,49,Credit Card,Quarterly
+2687,33,Cash,Fortnightly
+2688,12,Debit Card,Bi-Weekly
+2689,18,Credit Card,Every 3 Months
+2690,47,PayPal,Quarterly
+2691,18,Bank Transfer,Weekly
+2692,48,Cash,Monthly
+2693,18,Debit Card,Every 3 Months
+2694,46,Cash,Quarterly
+2695,34,Credit Card,Every 3 Months
+2696,10,PayPal,Bi-Weekly
+2697,12,Debit Card,Monthly
+2698,36,Bank Transfer,Quarterly
+2699,34,Venmo,Quarterly
+2700,49,Debit Card,Annually
+2701,36,Cash,Weekly
+2702,18,Bank Transfer,Fortnightly
+2703,39,Debit Card,Fortnightly
+2704,34,PayPal,Weekly
+2705,35,Debit Card,Weekly
+2706,1,Credit Card,Bi-Weekly
+2707,48,Debit Card,Quarterly
+2708,19,Cash,Weekly
+2709,44,Debit Card,Weekly
+2710,9,Credit Card,Bi-Weekly
+2711,3,Bank Transfer,Fortnightly
+2712,50,Venmo,Monthly
+2713,7,Debit Card,Quarterly
+2714,20,Debit Card,Annually
+2715,16,Credit Card,Bi-Weekly
+2716,29,PayPal,Fortnightly
+2717,21,Debit Card,Weekly
+2718,19,Credit Card,Every 3 Months
+2719,10,Venmo,Bi-Weekly
+2720,4,Bank Transfer,Monthly
+2721,45,Bank Transfer,Quarterly
+2722,17,PayPal,Fortnightly
+2723,22,PayPal,Fortnightly
+2724,3,PayPal,Every 3 Months
+2725,11,Debit Card,Fortnightly
+2726,4,Debit Card,Annually
+2727,11,PayPal,Bi-Weekly
+2728,47,Credit Card,Fortnightly
+2729,17,Debit Card,Weekly
+2730,32,Credit Card,Monthly
+2731,37,Bank Transfer,Annually
+2732,44,Bank Transfer,Quarterly
+2733,27,Debit Card,Every 3 Months
+2734,46,PayPal,Annually
+2735,13,Cash,Bi-Weekly
+2736,2,PayPal,Bi-Weekly
+2737,45,Credit Card,Annually
+2738,35,Cash,Every 3 Months
+2739,39,Venmo,Every 3 Months
+2740,39,Credit Card,Every 3 Months
+2741,34,Bank Transfer,Fortnightly
+2742,41,Venmo,Monthly
+2743,47,Debit Card,Annually
+2744,17,Venmo,Quarterly
+2745,40,Credit Card,Monthly
+2746,44,PayPal,Bi-Weekly
+2747,21,PayPal,Every 3 Months
+2748,21,Credit Card,Every 3 Months
+2749,16,Venmo,Annually
+2750,15,Bank Transfer,Annually
+2751,26,PayPal,Every 3 Months
+2752,50,Venmo,Monthly
+2753,30,Venmo,Bi-Weekly
+2754,48,PayPal,Quarterly
+2755,21,Venmo,Bi-Weekly
+2756,18,Credit Card,Annually
+2757,41,PayPal,Monthly
+2758,11,Venmo,Monthly
+2759,8,Bank Transfer,Bi-Weekly
+2760,42,Cash,Every 3 Months
+2761,41,Credit Card,Bi-Weekly
+2762,3,Credit Card,Every 3 Months
+2763,10,Debit Card,Every 3 Months
+2764,35,Venmo,Quarterly
+2765,2,Debit Card,Weekly
+2766,24,Credit Card,Quarterly
+2767,47,Credit Card,Monthly
+2768,31,Cash,Monthly
+2769,28,PayPal,Bi-Weekly
+2770,13,Cash,Weekly
+2771,22,Bank Transfer,Quarterly
+2772,12,Bank Transfer,Fortnightly
+2773,10,Bank Transfer,Every 3 Months
+2774,45,Bank Transfer,Quarterly
+2775,42,Credit Card,Quarterly
+2776,16,Debit Card,Weekly
+2777,6,Bank Transfer,Annually
+2778,28,Credit Card,Every 3 Months
+2779,24,Credit Card,Bi-Weekly
+2780,14,Credit Card,Fortnightly
+2781,29,PayPal,Fortnightly
+2782,33,PayPal,Weekly
+2783,30,PayPal,Annually
+2784,26,Credit Card,Quarterly
+2785,12,PayPal,Every 3 Months
+2786,13,Bank Transfer,Monthly
+2787,41,Debit Card,Every 3 Months
+2788,4,Venmo,Fortnightly
+2789,2,Credit Card,Annually
+2790,28,Credit Card,Bi-Weekly
+2791,24,Debit Card,Annually
+2792,14,Venmo,Fortnightly
+2793,11,Credit Card,Weekly
+2794,27,Debit Card,Bi-Weekly
+2795,7,Cash,Fortnightly
+2796,49,PayPal,Annually
+2797,21,Cash,Annually
+2798,10,Venmo,Every 3 Months
+2799,37,PayPal,Weekly
+2800,9,Bank Transfer,Every 3 Months
+2801,14,Cash,Bi-Weekly
+2802,30,PayPal,Annually
+2803,42,Credit Card,Fortnightly
+2804,31,Bank Transfer,Monthly
+2805,48,Bank Transfer,Every 3 Months
+2806,48,Cash,Quarterly
+2807,50,Credit Card,Annually
+2808,10,Debit Card,Fortnightly
+2809,45,PayPal,Every 3 Months
+2810,27,Debit Card,Quarterly
+2811,10,Debit Card,Fortnightly
+2812,19,Credit Card,Quarterly
+2813,1,Credit Card,Every 3 Months
+2814,39,Debit Card,Quarterly
+2815,14,Bank Transfer,Monthly
+2816,40,Venmo,Every 3 Months
+2817,45,Venmo,Weekly
+2818,6,Venmo,Weekly
+2819,12,Debit Card,Annually
+2820,19,Cash,Monthly
+2821,5,Cash,Bi-Weekly
+2822,37,Venmo,Monthly
+2823,33,PayPal,Quarterly
+2824,47,Debit Card,Bi-Weekly
+2825,49,Debit Card,Quarterly
+2826,28,Bank Transfer,Annually
+2827,23,Venmo,Annually
+2828,11,Bank Transfer,Bi-Weekly
+2829,33,PayPal,Quarterly
+2830,47,Cash,Weekly
+2831,13,Venmo,Every 3 Months
+2832,4,Credit Card,Weekly
+2833,40,PayPal,Quarterly
+2834,19,Cash,Monthly
+2835,17,Credit Card,Weekly
+2836,7,Venmo,Annually
+2837,21,Cash,Bi-Weekly
+2838,44,PayPal,Weekly
+2839,2,Bank Transfer,Weekly
+2840,30,Bank Transfer,Monthly
+2841,41,Cash,Annually
+2842,31,Cash,Weekly
+2843,48,Debit Card,Quarterly
+2844,41,Venmo,Weekly
+2845,42,Venmo,Annually
+2846,39,Debit Card,Every 3 Months
+2847,15,PayPal,Bi-Weekly
+2848,3,PayPal,Every 3 Months
+2849,28,Bank Transfer,Quarterly
+2850,27,PayPal,Bi-Weekly
+2851,36,Debit Card,Annually
+2852,42,Debit Card,Monthly
+2853,30,Venmo,Weekly
+2854,9,PayPal,Weekly
+2855,25,Venmo,Monthly
+2856,33,PayPal,Quarterly
+2857,31,Credit Card,Monthly
+2858,35,Debit Card,Monthly
+2859,46,Bank Transfer,Monthly
+2860,29,Bank Transfer,Annually
+2861,49,Bank Transfer,Weekly
+2862,27,Credit Card,Monthly
+2863,5,Bank Transfer,Every 3 Months
+2864,18,Venmo,Monthly
+2865,31,Venmo,Weekly
+2866,27,Cash,Fortnightly
+2867,19,Cash,Annually
+2868,33,Cash,Fortnightly
+2869,42,PayPal,Every 3 Months
+2870,16,Bank Transfer,Weekly
+2871,49,Debit Card,Every 3 Months
+2872,40,Venmo,Bi-Weekly
+2873,5,Cash,Annually
+2874,8,Bank Transfer,Monthly
+2875,2,Debit Card,Annually
+2876,14,Debit Card,Weekly
+2877,5,Bank Transfer,Fortnightly
+2878,34,Venmo,Monthly
+2879,13,Bank Transfer,Annually
+2880,31,Venmo,Annually
+2881,43,PayPal,Quarterly
+2882,6,Bank Transfer,Annually
+2883,23,Credit Card,Bi-Weekly
+2884,10,PayPal,Weekly
+2885,47,Credit Card,Every 3 Months
+2886,14,Credit Card,Bi-Weekly
+2887,29,PayPal,Weekly
+2888,12,Cash,Bi-Weekly
+2889,25,Debit Card,Quarterly
+2890,21,Venmo,Annually
+2891,23,Credit Card,Monthly
+2892,10,PayPal,Monthly
+2893,47,Credit Card,Monthly
+2894,44,Debit Card,Every 3 Months
+2895,41,Venmo,Annually
+2896,29,Bank Transfer,Monthly
+2897,2,Venmo,Every 3 Months
+2898,2,Cash,Fortnightly
+2899,29,Credit Card,Annually
+2900,22,Bank Transfer,Fortnightly
+2901,23,Cash,Bi-Weekly
+2902,46,Credit Card,Quarterly
+2903,19,PayPal,Bi-Weekly
+2904,24,Credit Card,Every 3 Months
+2905,43,Venmo,Monthly
+2906,14,Debit Card,Fortnightly
+2907,7,Venmo,Annually
+2908,50,PayPal,Bi-Weekly
+2909,15,Debit Card,Every 3 Months
+2910,40,Credit Card,Every 3 Months
+2911,41,Credit Card,Monthly
+2912,34,Venmo,Quarterly
+2913,27,Cash,Bi-Weekly
+2914,12,Cash,Every 3 Months
+2915,1,Debit Card,Bi-Weekly
+2916,39,Debit Card,Bi-Weekly
+2917,13,Credit Card,Bi-Weekly
+2918,50,Venmo,Annually
+2919,36,Cash,Weekly
+2920,31,Debit Card,Monthly
+2921,3,Debit Card,Bi-Weekly
+2922,11,Cash,Fortnightly
+2923,16,PayPal,Quarterly
+2924,12,Cash,Quarterly
+2925,37,Debit Card,Every 3 Months
+2926,43,Credit Card,Every 3 Months
+2927,9,Cash,Weekly
+2928,15,Venmo,Bi-Weekly
+2929,17,Credit Card,Weekly
+2930,42,Venmo,Fortnightly
+2931,14,Venmo,Monthly
+2932,49,Credit Card,Bi-Weekly
+2933,3,PayPal,Quarterly
+2934,28,Venmo,Monthly
+2935,41,Bank Transfer,Quarterly
+2936,11,Venmo,Weekly
+2937,46,PayPal,Weekly
+2938,15,Credit Card,Weekly
+2939,15,Cash,Monthly
+2940,34,Venmo,Weekly
+2941,13,Cash,Monthly
+2942,27,PayPal,Monthly
+2943,37,Bank Transfer,Weekly
+2944,37,Credit Card,Monthly
+2945,4,Venmo,Every 3 Months
+2946,1,Credit Card,Every 3 Months
+2947,29,Bank Transfer,Quarterly
+2948,50,Venmo,Annually
+2949,38,Debit Card,Bi-Weekly
+2950,15,PayPal,Annually
+2951,44,Debit Card,Every 3 Months
+2952,14,Cash,Weekly
+2953,5,Debit Card,Monthly
+2954,11,Credit Card,Annually
+2955,15,Credit Card,Annually
+2956,46,Credit Card,Annually
+2957,30,Venmo,Monthly
+2958,2,Cash,Annually
+2959,28,PayPal,Monthly
+2960,9,PayPal,Quarterly
+2961,47,Credit Card,Weekly
+2962,21,Debit Card,Bi-Weekly
+2963,42,Credit Card,Every 3 Months
+2964,28,Credit Card,Weekly
+2965,13,Venmo,Fortnightly
+2966,25,PayPal,Fortnightly
+2967,38,Debit Card,Every 3 Months
+2968,40,Venmo,Annually
+2969,25,Cash,Every 3 Months
+2970,20,Cash,Every 3 Months
+2971,44,Credit Card,Bi-Weekly
+2972,9,PayPal,Every 3 Months
+2973,11,Venmo,Every 3 Months
+2974,3,Bank Transfer,Fortnightly
+2975,34,Credit Card,Weekly
+2976,48,Cash,Every 3 Months
+2977,28,Cash,Fortnightly
+2978,20,Venmo,Annually
+2979,49,Bank Transfer,Fortnightly
+2980,14,PayPal,Weekly
+2981,9,Bank Transfer,Monthly
+2982,37,Venmo,Annually
+2983,4,Credit Card,Weekly
+2984,1,Credit Card,Quarterly
+2985,36,Debit Card,Bi-Weekly
+2986,21,Cash,Bi-Weekly
+2987,16,Credit Card,Monthly
+2988,42,Cash,Monthly
+2989,31,Debit Card,Monthly
+2990,6,Credit Card,Weekly
+2991,24,Venmo,Monthly
+2992,7,PayPal,Bi-Weekly
+2993,25,Venmo,Weekly
+2994,18,Cash,Bi-Weekly
+2995,14,Bank Transfer,Quarterly
+2996,42,Debit Card,Bi-Weekly
+2997,6,Venmo,Every 3 Months
+2998,14,Venmo,Every 3 Months
+2999,30,Debit Card,Quarterly
+3000,10,Cash,Monthly
+3001,7,PayPal,Weekly
+3002,28,Credit Card,Quarterly
+3003,19,Bank Transfer,Quarterly
+3004,13,Credit Card,Every 3 Months
+3005,23,Venmo,Fortnightly
+3006,5,Venmo,Weekly
+3007,17,Venmo,Bi-Weekly
+3008,31,Venmo,Weekly
+3009,19,PayPal,Weekly
+3010,8,Venmo,Fortnightly
+3011,15,Credit Card,Annually
+3012,18,Credit Card,Every 3 Months
+3013,16,PayPal,Annually
+3014,13,Cash,Monthly
+3015,38,PayPal,Every 3 Months
+3016,27,Bank Transfer,Bi-Weekly
+3017,31,Bank Transfer,Quarterly
+3018,24,Cash,Bi-Weekly
+3019,21,Debit Card,Bi-Weekly
+3020,15,PayPal,Annually
+3021,48,Venmo,Every 3 Months
+3022,47,Cash,Quarterly
+3023,23,PayPal,Weekly
+3024,4,PayPal,Quarterly
+3025,47,Credit Card,Every 3 Months
+3026,7,PayPal,Monthly
+3027,6,Credit Card,Annually
+3028,47,Credit Card,Quarterly
+3029,7,PayPal,Every 3 Months
+3030,1,Debit Card,Quarterly
+3031,23,Credit Card,Weekly
+3032,30,Credit Card,Monthly
+3033,24,Credit Card,Quarterly
+3034,9,PayPal,Weekly
+3035,25,Credit Card,Quarterly
+3036,18,Cash,Bi-Weekly
+3037,7,Venmo,Fortnightly
+3038,2,Cash,Annually
+3039,36,Debit Card,Annually
+3040,31,PayPal,Bi-Weekly
+3041,10,Cash,Fortnightly
+3042,27,PayPal,Monthly
+3043,14,PayPal,Every 3 Months
+3044,17,Credit Card,Monthly
+3045,10,Bank Transfer,Quarterly
+3046,4,PayPal,Bi-Weekly
+3047,25,Cash,Every 3 Months
+3048,3,PayPal,Bi-Weekly
+3049,47,Venmo,Fortnightly
+3050,41,Bank Transfer,Bi-Weekly
+3051,28,Venmo,Every 3 Months
+3052,49,Debit Card,Every 3 Months
+3053,7,Bank Transfer,Fortnightly
+3054,22,Bank Transfer,Monthly
+3055,34,Venmo,Monthly
+3056,5,Debit Card,Bi-Weekly
+3057,15,Cash,Bi-Weekly
+3058,26,Bank Transfer,Weekly
+3059,3,Bank Transfer,Fortnightly
+3060,42,Credit Card,Quarterly
+3061,1,Venmo,Monthly
+3062,20,PayPal,Every 3 Months
+3063,39,PayPal,Monthly
+3064,24,Credit Card,Fortnightly
+3065,49,Bank Transfer,Quarterly
+3066,7,Venmo,Bi-Weekly
+3067,13,Venmo,Every 3 Months
+3068,2,Cash,Weekly
+3069,4,Debit Card,Weekly
+3070,17,Debit Card,Quarterly
+3071,43,PayPal,Bi-Weekly
+3072,6,PayPal,Monthly
+3073,46,PayPal,Quarterly
+3074,7,Debit Card,Bi-Weekly
+3075,34,Debit Card,Fortnightly
+3076,21,PayPal,Every 3 Months
+3077,13,Venmo,Bi-Weekly
+3078,33,Debit Card,Bi-Weekly
+3079,24,Bank Transfer,Bi-Weekly
+3080,4,Bank Transfer,Annually
+3081,5,Cash,Bi-Weekly
+3082,11,Credit Card,Weekly
+3083,20,Bank Transfer,Annually
+3084,28,PayPal,Quarterly
+3085,43,PayPal,Monthly
+3086,10,Venmo,Every 3 Months
+3087,26,Venmo,Every 3 Months
+3088,29,Bank Transfer,Monthly
+3089,35,Bank Transfer,Quarterly
+3090,23,Cash,Bi-Weekly
+3091,15,Bank Transfer,Quarterly
+3092,46,Credit Card,Annually
+3093,14,Bank Transfer,Bi-Weekly
+3094,17,Cash,Every 3 Months
+3095,9,Cash,Weekly
+3096,13,Venmo,Fortnightly
+3097,20,Bank Transfer,Monthly
+3098,39,Bank Transfer,Quarterly
+3099,50,Bank Transfer,Quarterly
+3100,21,Bank Transfer,Bi-Weekly
+3101,3,Bank Transfer,Weekly
+3102,9,PayPal,Fortnightly
+3103,29,Cash,Bi-Weekly
+3104,42,Bank Transfer,Weekly
+3105,41,Debit Card,Fortnightly
+3106,17,Debit Card,Monthly
+3107,20,PayPal,Annually
+3108,18,Credit Card,Bi-Weekly
+3109,7,PayPal,Monthly
+3110,47,Bank Transfer,Fortnightly
+3111,2,Bank Transfer,Bi-Weekly
+3112,25,Debit Card,Quarterly
+3113,26,Venmo,Annually
+3114,2,Debit Card,Weekly
+3115,45,Venmo,Bi-Weekly
+3116,9,Bank Transfer,Bi-Weekly
+3117,1,Venmo,Weekly
+3118,4,PayPal,Bi-Weekly
+3119,31,Debit Card,Quarterly
+3120,21,Credit Card,Every 3 Months
+3121,32,Debit Card,Fortnightly
+3122,16,Venmo,Weekly
+3123,34,Credit Card,Fortnightly
+3124,40,Venmo,Bi-Weekly
+3125,4,Cash,Every 3 Months
+3126,3,Cash,Quarterly
+3127,28,Bank Transfer,Bi-Weekly
+3128,43,Credit Card,Every 3 Months
+3129,20,Cash,Annually
+3130,40,Venmo,Every 3 Months
+3131,34,Venmo,Every 3 Months
+3132,11,Bank Transfer,Every 3 Months
+3133,26,Cash,Quarterly
+3134,29,Cash,Bi-Weekly
+3135,47,Bank Transfer,Weekly
+3136,48,Venmo,Fortnightly
+3137,29,Cash,Bi-Weekly
+3138,14,Bank Transfer,Monthly
+3139,40,Cash,Every 3 Months
+3140,4,Venmo,Weekly
+3141,37,Bank Transfer,Weekly
+3142,47,Credit Card,Bi-Weekly
+3143,1,Venmo,Quarterly
+3144,26,Cash,Quarterly
+3145,12,Debit Card,Quarterly
+3146,16,PayPal,Fortnightly
+3147,19,PayPal,Annually
+3148,21,Credit Card,Weekly
+3149,15,Venmo,Weekly
+3150,9,Venmo,Annually
+3151,7,Bank Transfer,Bi-Weekly
+3152,47,Bank Transfer,Quarterly
+3153,17,PayPal,Monthly
+3154,46,Venmo,Fortnightly
+3155,32,Cash,Quarterly
+3156,34,Cash,Annually
+3157,18,Cash,Monthly
+3158,5,Debit Card,Fortnightly
+3159,44,Credit Card,Monthly
+3160,4,Bank Transfer,Quarterly
+3161,37,Cash,Fortnightly
+3162,43,Cash,Monthly
+3163,28,Bank Transfer,Quarterly
+3164,36,Cash,Monthly
+3165,16,Credit Card,Annually
+3166,38,Bank Transfer,Every 3 Months
+3167,37,Bank Transfer,Fortnightly
+3168,9,Cash,Bi-Weekly
+3169,14,PayPal,Fortnightly
+3170,3,Venmo,Weekly
+3171,10,Credit Card,Fortnightly
+3172,26,Bank Transfer,Bi-Weekly
+3173,30,Debit Card,Bi-Weekly
+3174,32,PayPal,Fortnightly
+3175,35,PayPal,Monthly
+3176,26,Debit Card,Every 3 Months
+3177,39,Credit Card,Monthly
+3178,31,Credit Card,Monthly
+3179,28,Credit Card,Annually
+3180,12,Debit Card,Bi-Weekly
+3181,46,PayPal,Weekly
+3182,27,PayPal,Every 3 Months
+3183,4,Credit Card,Annually
+3184,14,Cash,Every 3 Months
+3185,30,Venmo,Quarterly
+3186,6,PayPal,Annually
+3187,43,Venmo,Annually
+3188,28,Debit Card,Weekly
+3189,39,Bank Transfer,Monthly
+3190,30,PayPal,Bi-Weekly
+3191,5,Credit Card,Fortnightly
+3192,42,Credit Card,Every 3 Months
+3193,20,Cash,Fortnightly
+3194,35,Credit Card,Fortnightly
+3195,10,Credit Card,Bi-Weekly
+3196,36,Credit Card,Quarterly
+3197,21,Debit Card,Fortnightly
+3198,29,Credit Card,Every 3 Months
+3199,39,Debit Card,Weekly
+3200,16,PayPal,Monthly
+3201,32,Credit Card,Monthly
+3202,34,Cash,Monthly
+3203,38,Venmo,Annually
+3204,14,Venmo,Annually
+3205,23,Debit Card,Bi-Weekly
+3206,50,Bank Transfer,Every 3 Months
+3207,49,PayPal,Monthly
+3208,14,PayPal,Annually
+3209,42,PayPal,Weekly
+3210,39,Debit Card,Annually
+3211,43,Venmo,Bi-Weekly
+3212,12,Cash,Monthly
+3213,21,Debit Card,Weekly
+3214,33,Credit Card,Monthly
+3215,6,Debit Card,Annually
+3216,10,PayPal,Every 3 Months
+3217,18,Cash,Weekly
+3218,46,Venmo,Weekly
+3219,49,PayPal,Monthly
+3220,39,Credit Card,Weekly
+3221,16,Cash,Monthly
+3222,28,Cash,Annually
+3223,22,PayPal,Quarterly
+3224,36,Venmo,Bi-Weekly
+3225,18,PayPal,Monthly
+3226,31,Credit Card,Weekly
+3227,38,Bank Transfer,Fortnightly
+3228,42,Debit Card,Quarterly
+3229,27,PayPal,Annually
+3230,24,Cash,Monthly
+3231,38,Debit Card,Annually
+3232,9,Credit Card,Annually
+3233,19,Bank Transfer,Monthly
+3234,11,Debit Card,Bi-Weekly
+3235,16,Debit Card,Quarterly
+3236,18,Venmo,Monthly
+3237,8,Cash,Monthly
+3238,4,Cash,Weekly
+3239,37,Cash,Quarterly
+3240,30,Cash,Monthly
+3241,37,Bank Transfer,Monthly
+3242,30,PayPal,Quarterly
+3243,17,Venmo,Weekly
+3244,11,Bank Transfer,Every 3 Months
+3245,42,Credit Card,Annually
+3246,20,Cash,Weekly
+3247,37,Cash,Monthly
+3248,12,PayPal,Fortnightly
+3249,41,Bank Transfer,Quarterly
+3250,32,Credit Card,Quarterly
+3251,15,Venmo,Weekly
+3252,39,Venmo,Quarterly
+3253,48,Credit Card,Fortnightly
+3254,8,Venmo,Fortnightly
+3255,11,Bank Transfer,Every 3 Months
+3256,36,Bank Transfer,Monthly
+3257,50,Venmo,Every 3 Months
+3258,39,Venmo,Every 3 Months
+3259,11,Credit Card,Bi-Weekly
+3260,5,Debit Card,Every 3 Months
+3261,7,Credit Card,Annually
+3262,50,Debit Card,Weekly
+3263,21,Cash,Every 3 Months
+3264,31,Debit Card,Fortnightly
+3265,39,Cash,Bi-Weekly
+3266,28,Credit Card,Fortnightly
+3267,33,Bank Transfer,Weekly
+3268,42,Credit Card,Quarterly
+3269,5,Bank Transfer,Every 3 Months
+3270,25,Cash,Monthly
+3271,48,PayPal,Annually
+3272,30,Credit Card,Weekly
+3273,34,PayPal,Quarterly
+3274,34,PayPal,Every 3 Months
+3275,14,Cash,Fortnightly
+3276,2,Debit Card,Weekly
+3277,41,PayPal,Every 3 Months
+3278,3,Credit Card,Monthly
+3279,18,Bank Transfer,Weekly
+3280,1,Debit Card,Fortnightly
+3281,5,PayPal,Monthly
+3282,41,Bank Transfer,Annually
+3283,5,Credit Card,Monthly
+3284,10,Debit Card,Every 3 Months
+3285,20,Venmo,Annually
+3286,11,Cash,Weekly
+3287,4,Venmo,Fortnightly
+3288,38,Credit Card,Weekly
+3289,19,Credit Card,Bi-Weekly
+3290,16,Venmo,Every 3 Months
+3291,2,PayPal,Monthly
+3292,11,Cash,Monthly
+3293,18,Bank Transfer,Fortnightly
+3294,47,Credit Card,Fortnightly
+3295,15,Bank Transfer,Bi-Weekly
+3296,15,Cash,Weekly
+3297,47,Venmo,Quarterly
+3298,47,PayPal,Monthly
+3299,6,Bank Transfer,Every 3 Months
+3300,18,Venmo,Monthly
+3301,40,Bank Transfer,Bi-Weekly
+3302,31,Credit Card,Fortnightly
+3303,31,Venmo,Bi-Weekly
+3304,4,Credit Card,Fortnightly
+3305,36,Bank Transfer,Every 3 Months
+3306,31,PayPal,Bi-Weekly
+3307,6,Venmo,Fortnightly
+3308,1,Cash,Monthly
+3309,29,Cash,Monthly
+3310,19,PayPal,Monthly
+3311,12,PayPal,Fortnightly
+3312,18,Bank Transfer,Annually
+3313,45,Cash,Quarterly
+3314,45,Credit Card,Monthly
+3315,8,Credit Card,Quarterly
+3316,4,PayPal,Every 3 Months
+3317,5,Debit Card,Fortnightly
+3318,30,Cash,Quarterly
+3319,15,PayPal,Monthly
+3320,17,Credit Card,Every 3 Months
+3321,45,Cash,Every 3 Months
+3322,3,Venmo,Annually
+3323,43,PayPal,Weekly
+3324,4,Credit Card,Monthly
+3325,41,Venmo,Weekly
+3326,16,Venmo,Monthly
+3327,10,Debit Card,Annually
+3328,2,Debit Card,Quarterly
+3329,11,Cash,Bi-Weekly
+3330,1,Debit Card,Bi-Weekly
+3331,41,Bank Transfer,Quarterly
+3332,39,PayPal,Quarterly
+3333,1,PayPal,Bi-Weekly
+3334,3,PayPal,Monthly
+3335,21,Credit Card,Annually
+3336,48,Bank Transfer,Quarterly
+3337,24,Debit Card,Annually
+3338,45,Bank Transfer,Bi-Weekly
+3339,46,Credit Card,Monthly
+3340,35,Cash,Fortnightly
+3341,47,Credit Card,Fortnightly
+3342,35,Credit Card,Monthly
+3343,45,Credit Card,Weekly
+3344,6,Cash,Bi-Weekly
+3345,20,Cash,Annually
+3346,3,Venmo,Bi-Weekly
+3347,30,Venmo,Quarterly
+3348,28,PayPal,Bi-Weekly
+3349,15,Cash,Every 3 Months
+3350,29,PayPal,Quarterly
+3351,15,Cash,Bi-Weekly
+3352,18,Bank Transfer,Fortnightly
+3353,7,Bank Transfer,Bi-Weekly
+3354,19,Credit Card,Every 3 Months
+3355,15,PayPal,Weekly
+3356,3,Bank Transfer,Bi-Weekly
+3357,13,PayPal,Bi-Weekly
+3358,37,Credit Card,Monthly
+3359,26,Cash,Annually
+3360,29,Debit Card,Monthly
+3361,47,Cash,Every 3 Months
+3362,47,Credit Card,Bi-Weekly
+3363,48,Venmo,Fortnightly
+3364,46,Bank Transfer,Bi-Weekly
+3365,7,Credit Card,Monthly
+3366,45,Credit Card,Every 3 Months
+3367,47,Debit Card,Quarterly
+3368,6,Venmo,Fortnightly
+3369,29,Bank Transfer,Every 3 Months
+3370,42,Cash,Monthly
+3371,46,Cash,Fortnightly
+3372,28,PayPal,Annually
+3373,14,Credit Card,Every 3 Months
+3374,12,Debit Card,Every 3 Months
+3375,41,Debit Card,Annually
+3376,8,Credit Card,Annually
+3377,24,Cash,Quarterly
+3378,18,PayPal,Fortnightly
+3379,6,Cash,Quarterly
+3380,40,Cash,Weekly
+3381,6,PayPal,Every 3 Months
+3382,27,Credit Card,Quarterly
+3383,2,Bank Transfer,Weekly
+3384,39,Venmo,Bi-Weekly
+3385,9,Venmo,Quarterly
+3386,16,Credit Card,Every 3 Months
+3387,36,Cash,Quarterly
+3388,2,Credit Card,Bi-Weekly
+3389,21,Credit Card,Weekly
+3390,39,Venmo,Annually
+3391,38,PayPal,Annually
+3392,6,Debit Card,Every 3 Months
+3393,6,Venmo,Bi-Weekly
+3394,50,Debit Card,Monthly
+3395,9,PayPal,Annually
+3396,15,Debit Card,Every 3 Months
+3397,5,PayPal,Quarterly
+3398,13,Bank Transfer,Bi-Weekly
+3399,44,Cash,Fortnightly
+3400,36,Debit Card,Annually
+3401,18,Venmo,Fortnightly
+3402,39,Credit Card,Weekly
+3403,11,PayPal,Every 3 Months
+3404,1,Cash,Bi-Weekly
+3405,34,Credit Card,Annually
+3406,47,Bank Transfer,Bi-Weekly
+3407,24,Venmo,Quarterly
+3408,20,Cash,Quarterly
+3409,11,Bank Transfer,Annually
+3410,3,Credit Card,Every 3 Months
+3411,38,Bank Transfer,Bi-Weekly
+3412,45,Cash,Weekly
+3413,31,Venmo,Quarterly
+3414,16,PayPal,Bi-Weekly
+3415,3,Bank Transfer,Quarterly
+3416,15,Bank Transfer,Annually
+3417,11,Bank Transfer,Every 3 Months
+3418,22,Debit Card,Fortnightly
+3419,35,Debit Card,Annually
+3420,5,Venmo,Bi-Weekly
+3421,35,PayPal,Bi-Weekly
+3422,27,PayPal,Weekly
+3423,9,Venmo,Monthly
+3424,21,PayPal,Bi-Weekly
+3425,23,Credit Card,Monthly
+3426,3,Debit Card,Bi-Weekly
+3427,31,Credit Card,Annually
+3428,44,Cash,Annually
+3429,20,Venmo,Monthly
+3430,34,Debit Card,Weekly
+3431,17,Bank Transfer,Every 3 Months
+3432,20,Venmo,Annually
+3433,46,PayPal,Every 3 Months
+3434,28,PayPal,Annually
+3435,6,Venmo,Fortnightly
+3436,50,Debit Card,Bi-Weekly
+3437,41,Bank Transfer,Monthly
+3438,50,PayPal,Annually
+3439,33,Credit Card,Monthly
+3440,25,Venmo,Quarterly
+3441,2,PayPal,Weekly
+3442,15,Credit Card,Annually
+3443,12,PayPal,Weekly
+3444,28,Cash,Bi-Weekly
+3445,12,Bank Transfer,Bi-Weekly
+3446,3,Debit Card,Annually
+3447,20,Cash,Weekly
+3448,3,Bank Transfer,Bi-Weekly
+3449,32,Bank Transfer,Fortnightly
+3450,35,Cash,Monthly
+3451,31,PayPal,Monthly
+3452,13,Credit Card,Annually
+3453,3,Venmo,Fortnightly
+3454,48,Venmo,Bi-Weekly
+3455,15,PayPal,Bi-Weekly
+3456,13,Venmo,Annually
+3457,21,Venmo,Monthly
+3458,29,Cash,Fortnightly
+3459,24,Venmo,Quarterly
+3460,21,PayPal,Annually
+3461,5,Bank Transfer,Bi-Weekly
+3462,47,Cash,Quarterly
+3463,34,Credit Card,Every 3 Months
+3464,45,PayPal,Fortnightly
+3465,12,PayPal,Annually
+3466,31,Debit Card,Weekly
+3467,43,Bank Transfer,Annually
+3468,5,Credit Card,Annually
+3469,36,Debit Card,Quarterly
+3470,12,Cash,Annually
+3471,31,Cash,Bi-Weekly
+3472,31,Cash,Bi-Weekly
+3473,15,Debit Card,Weekly
+3474,11,Cash,Weekly
+3475,18,Venmo,Monthly
+3476,9,Cash,Quarterly
+3477,11,Cash,Weekly
+3478,38,Debit Card,Bi-Weekly
+3479,42,PayPal,Quarterly
+3480,41,Cash,Monthly
+3481,45,PayPal,Monthly
+3482,41,Debit Card,Bi-Weekly
+3483,35,Debit Card,Weekly
+3484,21,Credit Card,Every 3 Months
+3485,13,Credit Card,Bi-Weekly
+3486,23,Debit Card,Fortnightly
+3487,6,PayPal,Weekly
+3488,39,Bank Transfer,Annually
+3489,7,Cash,Quarterly
+3490,32,PayPal,Every 3 Months
+3491,43,Credit Card,Quarterly
+3492,15,Cash,Monthly
+3493,48,Bank Transfer,Annually
+3494,35,Credit Card,Weekly
+3495,41,PayPal,Quarterly
+3496,14,Cash,Weekly
+3497,22,PayPal,Monthly
+3498,16,Venmo,Every 3 Months
+3499,2,Bank Transfer,Bi-Weekly
+3500,13,PayPal,Every 3 Months
+3501,38,Debit Card,Fortnightly
+3502,43,Bank Transfer,Weekly
+3503,26,Bank Transfer,Quarterly
+3504,39,Cash,Weekly
+3505,50,Venmo,Monthly
+3506,40,Bank Transfer,Every 3 Months
+3507,12,Cash,Fortnightly
+3508,33,Credit Card,Every 3 Months
+3509,49,Bank Transfer,Weekly
+3510,43,Venmo,Bi-Weekly
+3511,14,Venmo,Monthly
+3512,21,Credit Card,Every 3 Months
+3513,31,Debit Card,Quarterly
+3514,29,Credit Card,Fortnightly
+3515,32,Cash,Monthly
+3516,16,Debit Card,Bi-Weekly
+3517,38,PayPal,Bi-Weekly
+3518,34,Debit Card,Every 3 Months
+3519,30,PayPal,Quarterly
+3520,14,Bank Transfer,Fortnightly
+3521,33,Bank Transfer,Monthly
+3522,35,Venmo,Weekly
+3523,13,Cash,Quarterly
+3524,30,Cash,Fortnightly
+3525,30,Credit Card,Monthly
+3526,47,Bank Transfer,Annually
+3527,1,PayPal,Every 3 Months
+3528,1,Cash,Weekly
+3529,33,PayPal,Annually
+3530,43,Bank Transfer,Weekly
+3531,37,PayPal,Weekly
+3532,23,Cash,Quarterly
+3533,12,Credit Card,Annually
+3534,30,Venmo,Fortnightly
+3535,7,Cash,Weekly
+3536,20,Debit Card,Monthly
+3537,10,Venmo,Monthly
+3538,40,Credit Card,Every 3 Months
+3539,21,Venmo,Monthly
+3540,17,Credit Card,Bi-Weekly
+3541,5,Bank Transfer,Weekly
+3542,22,PayPal,Annually
+3543,5,Venmo,Weekly
+3544,18,PayPal,Every 3 Months
+3545,42,Cash,Every 3 Months
+3546,22,Debit Card,Annually
+3547,37,Bank Transfer,Bi-Weekly
+3548,23,Credit Card,Annually
+3549,47,Debit Card,Fortnightly
+3550,11,Bank Transfer,Fortnightly
+3551,32,Cash,Weekly
+3552,20,Venmo,Weekly
+3553,3,PayPal,Quarterly
+3554,32,Bank Transfer,Weekly
+3555,5,Credit Card,Fortnightly
+3556,45,Cash,Quarterly
+3557,43,Cash,Bi-Weekly
+3558,1,PayPal,Every 3 Months
+3559,9,Venmo,Quarterly
+3560,13,Venmo,Every 3 Months
+3561,5,Credit Card,Annually
+3562,39,Credit Card,Fortnightly
+3563,7,Bank Transfer,Weekly
+3564,8,Credit Card,Every 3 Months
+3565,40,Venmo,Annually
+3566,35,PayPal,Monthly
+3567,14,Venmo,Monthly
+3568,26,Credit Card,Monthly
+3569,14,PayPal,Quarterly
+3570,9,Bank Transfer,Fortnightly
+3571,32,Debit Card,Annually
+3572,15,Bank Transfer,Every 3 Months
+3573,25,Credit Card,Monthly
+3574,27,PayPal,Monthly
+3575,39,Bank Transfer,Quarterly
+3576,49,Venmo,Bi-Weekly
+3577,12,Venmo,Bi-Weekly
+3578,13,Bank Transfer,Weekly
+3579,22,Bank Transfer,Quarterly
+3580,19,Credit Card,Every 3 Months
+3581,3,Cash,Bi-Weekly
+3582,50,Credit Card,Weekly
+3583,15,PayPal,Annually
+3584,44,Credit Card,Every 3 Months
+3585,48,Debit Card,Monthly
+3586,4,Venmo,Bi-Weekly
+3587,12,PayPal,Bi-Weekly
+3588,33,Debit Card,Annually
+3589,40,Cash,Annually
+3590,38,Cash,Every 3 Months
+3591,19,Venmo,Every 3 Months
+3592,38,Bank Transfer,Quarterly
+3593,18,Venmo,Fortnightly
+3594,24,PayPal,Monthly
+3595,29,Venmo,Quarterly
+3596,14,PayPal,Annually
+3597,44,Cash,Fortnightly
+3598,18,Bank Transfer,Quarterly
+3599,19,Bank Transfer,Bi-Weekly
+3600,4,Cash,Weekly
+3601,25,Cash,Bi-Weekly
+3602,3,PayPal,Monthly
+3603,40,Debit Card,Quarterly
+3604,5,Cash,Weekly
+3605,17,Debit Card,Annually
+3606,36,Bank Transfer,Every 3 Months
+3607,41,Venmo,Annually
+3608,20,Venmo,Bi-Weekly
+3609,2,Cash,Every 3 Months
+3610,31,Debit Card,Monthly
+3611,23,Bank Transfer,Fortnightly
+3612,30,Credit Card,Annually
+3613,26,Cash,Every 3 Months
+3614,40,Venmo,Annually
+3615,19,Bank Transfer,Annually
+3616,4,Credit Card,Monthly
+3617,33,Debit Card,Fortnightly
+3618,29,Debit Card,Monthly
+3619,47,PayPal,Bi-Weekly
+3620,50,Venmo,Weekly
+3621,28,Credit Card,Fortnightly
+3622,5,Cash,Fortnightly
+3623,12,Credit Card,Annually
+3624,4,PayPal,Weekly
+3625,22,Bank Transfer,Bi-Weekly
+3626,32,PayPal,Weekly
+3627,32,Venmo,Quarterly
+3628,48,Cash,Every 3 Months
+3629,35,Credit Card,Monthly
+3630,44,Debit Card,Fortnightly
+3631,29,Cash,Weekly
+3632,26,Credit Card,Monthly
+3633,3,Debit Card,Quarterly
+3634,1,Bank Transfer,Bi-Weekly
+3635,17,PayPal,Annually
+3636,17,Credit Card,Fortnightly
+3637,36,Cash,Weekly
+3638,32,Credit Card,Fortnightly
+3639,50,PayPal,Bi-Weekly
+3640,39,Venmo,Annually
+3641,17,PayPal,Monthly
+3642,39,Bank Transfer,Every 3 Months
+3643,5,PayPal,Annually
+3644,47,Debit Card,Annually
+3645,18,Venmo,Weekly
+3646,31,Credit Card,Every 3 Months
+3647,39,Debit Card,Fortnightly
+3648,12,Bank Transfer,Weekly
+3649,45,Cash,Bi-Weekly
+3650,33,Credit Card,Fortnightly
+3651,3,PayPal,Annually
+3652,5,Venmo,Every 3 Months
+3653,23,Debit Card,Monthly
+3654,39,Credit Card,Fortnightly
+3655,10,Credit Card,Annually
+3656,4,Credit Card,Bi-Weekly
+3657,18,Credit Card,Monthly
+3658,1,Debit Card,Every 3 Months
+3659,18,PayPal,Fortnightly
+3660,46,Bank Transfer,Annually
+3661,13,Bank Transfer,Fortnightly
+3662,5,Credit Card,Fortnightly
+3663,11,Debit Card,Weekly
+3664,49,Credit Card,Weekly
+3665,1,Debit Card,Fortnightly
+3666,11,Credit Card,Quarterly
+3667,47,Cash,Every 3 Months
+3668,20,Venmo,Monthly
+3669,18,Venmo,Annually
+3670,43,PayPal,Quarterly
+3671,4,PayPal,Every 3 Months
+3672,20,Venmo,Quarterly
+3673,7,PayPal,Monthly
+3674,31,Bank Transfer,Fortnightly
+3675,41,Venmo,Fortnightly
+3676,3,Bank Transfer,Monthly
+3677,16,PayPal,Monthly
+3678,43,Cash,Annually
+3679,29,Bank Transfer,Fortnightly
+3680,5,Cash,Bi-Weekly
+3681,30,Debit Card,Quarterly
+3682,33,Debit Card,Monthly
+3683,46,Venmo,Bi-Weekly
+3684,17,Venmo,Fortnightly
+3685,47,Credit Card,Bi-Weekly
+3686,17,Cash,Bi-Weekly
+3687,17,Cash,Bi-Weekly
+3688,28,Bank Transfer,Every 3 Months
+3689,8,Cash,Monthly
+3690,8,Bank Transfer,Quarterly
+3691,4,Bank Transfer,Bi-Weekly
+3692,24,PayPal,Weekly
+3693,29,Cash,Fortnightly
+3694,10,Venmo,Weekly
+3695,11,PayPal,Bi-Weekly
+3696,18,Bank Transfer,Fortnightly
+3697,26,Bank Transfer,Annually
+3698,39,Cash,Weekly
+3699,4,Venmo,Annually
+3700,24,Bank Transfer,Weekly
+3701,2,Bank Transfer,Every 3 Months
+3702,36,Cash,Annually
+3703,36,Venmo,Weekly
+3704,23,PayPal,Every 3 Months
+3705,36,Credit Card,Quarterly
+3706,2,Debit Card,Annually
+3707,17,Cash,Bi-Weekly
+3708,19,Venmo,Weekly
+3709,41,PayPal,Monthly
+3710,27,PayPal,Quarterly
+3711,32,Bank Transfer,Fortnightly
+3712,33,Cash,Annually
+3713,24,PayPal,Quarterly
+3714,31,Debit Card,Every 3 Months
+3715,35,Credit Card,Weekly
+3716,2,Bank Transfer,Monthly
+3717,42,Debit Card,Every 3 Months
+3718,47,Bank Transfer,Every 3 Months
+3719,44,Bank Transfer,Bi-Weekly
+3720,8,Bank Transfer,Every 3 Months
+3721,13,Credit Card,Quarterly
+3722,10,Cash,Annually
+3723,1,Credit Card,Fortnightly
+3724,1,Debit Card,Monthly
+3725,18,Bank Transfer,Annually
+3726,2,PayPal,Annually
+3727,36,Debit Card,Every 3 Months
+3728,17,Debit Card,Bi-Weekly
+3729,1,Debit Card,Annually
+3730,50,Cash,Quarterly
+3731,3,Credit Card,Bi-Weekly
+3732,45,PayPal,Quarterly
+3733,28,PayPal,Annually
+3734,6,Debit Card,Every 3 Months
+3735,33,Debit Card,Every 3 Months
+3736,29,PayPal,Annually
+3737,2,PayPal,Every 3 Months
+3738,43,PayPal,Bi-Weekly
+3739,48,Cash,Fortnightly
+3740,43,Credit Card,Weekly
+3741,26,Debit Card,Bi-Weekly
+3742,26,Debit Card,Bi-Weekly
+3743,50,Credit Card,Bi-Weekly
+3744,36,Debit Card,Quarterly
+3745,26,Bank Transfer,Fortnightly
+3746,2,Debit Card,Monthly
+3747,49,PayPal,Monthly
+3748,32,Bank Transfer,Bi-Weekly
+3749,3,Venmo,Annually
+3750,38,Venmo,Every 3 Months
+3751,5,PayPal,Monthly
+3752,8,Credit Card,Every 3 Months
+3753,43,Venmo,Weekly
+3754,22,Bank Transfer,Fortnightly
+3755,10,Cash,Every 3 Months
+3756,26,Credit Card,Monthly
+3757,42,Debit Card,Bi-Weekly
+3758,33,Cash,Weekly
+3759,23,Bank Transfer,Quarterly
+3760,30,Venmo,Quarterly
+3761,36,PayPal,Weekly
+3762,3,Venmo,Every 3 Months
+3763,13,PayPal,Annually
+3764,38,Cash,Every 3 Months
+3765,19,Venmo,Monthly
+3766,14,Bank Transfer,Bi-Weekly
+3767,43,Debit Card,Annually
+3768,10,Bank Transfer,Fortnightly
+3769,34,Bank Transfer,Quarterly
+3770,31,Venmo,Annually
+3771,34,Bank Transfer,Weekly
+3772,28,Venmo,Bi-Weekly
+3773,35,Cash,Annually
+3774,41,Cash,Quarterly
+3775,48,PayPal,Fortnightly
+3776,45,Cash,Quarterly
+3777,10,Credit Card,Fortnightly
+3778,9,Cash,Weekly
+3779,30,Debit Card,Annually
+3780,45,PayPal,Annually
+3781,41,Venmo,Quarterly
+3782,40,PayPal,Fortnightly
+3783,42,PayPal,Fortnightly
+3784,17,Debit Card,Fortnightly
+3785,4,Venmo,Annually
+3786,6,Cash,Monthly
+3787,22,Venmo,Weekly
+3788,46,PayPal,Every 3 Months
+3789,27,Debit Card,Monthly
+3790,18,Bank Transfer,Every 3 Months
+3791,31,Credit Card,Weekly
+3792,1,Venmo,Weekly
+3793,2,PayPal,Fortnightly
+3794,46,Bank Transfer,Annually
+3795,27,Venmo,Weekly
+3796,3,Cash,Weekly
+3797,47,Bank Transfer,Quarterly
+3798,20,Cash,Quarterly
+3799,23,Credit Card,Annually
+3800,13,Credit Card,Monthly
+3801,12,Venmo,Bi-Weekly
+3802,36,PayPal,Fortnightly
+3803,1,Bank Transfer,Monthly
+3804,14,Debit Card,Weekly
+3805,45,Cash,Annually
+3806,31,Credit Card,Quarterly
+3807,41,PayPal,Weekly
+3808,36,PayPal,Annually
+3809,6,Debit Card,Bi-Weekly
+3810,28,Credit Card,Annually
+3811,29,Venmo,Monthly
+3812,14,Cash,Monthly
+3813,7,Bank Transfer,Every 3 Months
+3814,31,Venmo,Bi-Weekly
+3815,26,Bank Transfer,Every 3 Months
+3816,12,Venmo,Fortnightly
+3817,45,Credit Card,Fortnightly
+3818,40,PayPal,Annually
+3819,42,Cash,Monthly
+3820,45,Cash,Quarterly
+3821,34,Debit Card,Quarterly
+3822,34,Credit Card,Every 3 Months
+3823,17,PayPal,Every 3 Months
+3824,27,Bank Transfer,Weekly
+3825,31,Credit Card,Quarterly
+3826,47,Debit Card,Fortnightly
+3827,25,Bank Transfer,Annually
+3828,47,Cash,Fortnightly
+3829,8,Cash,Weekly
+3830,32,Debit Card,Fortnightly
+3831,33,Bank Transfer,Every 3 Months
+3832,16,Debit Card,Every 3 Months
+3833,27,Cash,Weekly
+3834,17,PayPal,Every 3 Months
+3835,17,Cash,Quarterly
+3836,28,PayPal,Bi-Weekly
+3837,38,PayPal,Fortnightly
+3838,33,Bank Transfer,Fortnightly
+3839,24,Venmo,Every 3 Months
+3840,14,Venmo,Quarterly
+3841,5,Venmo,Fortnightly
+3842,8,Bank Transfer,Monthly
+3843,42,Debit Card,Monthly
+3844,48,Venmo,Every 3 Months
+3845,40,Venmo,Quarterly
+3846,46,Venmo,Annually
+3847,40,PayPal,Every 3 Months
+3848,31,PayPal,Fortnightly
+3849,39,Cash,Every 3 Months
+3850,36,PayPal,Fortnightly
+3851,25,Debit Card,Every 3 Months
+3852,24,Debit Card,Annually
+3853,19,PayPal,Weekly
+3854,49,Debit Card,Bi-Weekly
+3855,4,Venmo,Annually
+3856,36,Cash,Quarterly
+3857,8,Debit Card,Quarterly
+3858,29,Credit Card,Every 3 Months
+3859,26,Credit Card,Quarterly
+3860,47,Bank Transfer,Bi-Weekly
+3861,44,Cash,Annually
+3862,49,Credit Card,Monthly
+3863,9,Venmo,Monthly
+3864,28,Cash,Fortnightly
+3865,1,Debit Card,Fortnightly
+3866,28,Cash,Every 3 Months
+3867,33,Credit Card,Fortnightly
+3868,28,Credit Card,Monthly
+3869,9,Cash,Annually
+3870,28,Bank Transfer,Annually
+3871,19,Cash,Every 3 Months
+3872,20,Bank Transfer,Every 3 Months
+3873,3,Cash,Monthly
+3874,22,Credit Card,Weekly
+3875,33,Credit Card,Bi-Weekly
+3876,21,Credit Card,Annually
+3877,7,Cash,Annually
+3878,46,Debit Card,Monthly
+3879,24,Credit Card,Annually
+3880,6,Debit Card,Quarterly
+3881,40,PayPal,Monthly
+3882,17,Debit Card,Weekly
+3883,24,Cash,Fortnightly
+3884,22,Cash,Fortnightly
+3885,3,PayPal,Weekly
+3886,39,Cash,Quarterly
+3887,40,Debit Card,Quarterly
+3888,1,Credit Card,Quarterly
+3889,14,Venmo,Bi-Weekly
+3890,49,Bank Transfer,Annually
+3891,33,Debit Card,Annually
+3892,6,Bank Transfer,Quarterly
+3893,5,PayPal,Fortnightly
+3894,29,Bank Transfer,Bi-Weekly
+3895,44,Credit Card,Every 3 Months
+3896,32,Venmo,Weekly
+3897,41,Bank Transfer,Bi-Weekly
+3898,24,Venmo,Quarterly
+3899,24,Venmo,Weekly
+3900,33,Venmo,Quarterly
